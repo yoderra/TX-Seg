@@ -3,6 +3,7 @@
   <title>TX-seg.alpha</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+  <script src="leaflet.ajax.min.js"></script>
   <style>
   #mapId{ width: 75%; height: 100%; }
   </style>
@@ -19,6 +20,9 @@
     maxZoom: 18,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   });
+    
+  var geojsonLayer = new L.GeoJSON.AJAX("TX-Districts.geojson");       
+  geojsonLayer.addTo(map);
   
   OpenStreetMap_BlackAndWhite.addTo(map);
   </script>
