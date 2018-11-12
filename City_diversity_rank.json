@@ -1,0 +1,5012 @@
+[
+  {
+    "Overall Rank*": 4,
+    "City": "Silver Spring, MD",
+    "Total Score": 71.11,
+    "'Socioeconomic Diversity' Rank": 1,
+    "'Cultural Diversity' Rank": 4,
+    "'Economic Diversity' Rank": 177,
+    "'Household Diversity' Rank": 324,
+    "'Religious Diversity' Rank": 308
+  },
+  {
+    "Overall Rank*": 6,
+    "City": "Gaithersburg, MD",
+    "Total Score": 70.95,
+    "'Socioeconomic Diversity' Rank": 2,
+    "'Cultural Diversity' Rank": 2,
+    "'Economic Diversity' Rank": 368,
+    "'Household Diversity' Rank": 283,
+    "'Religious Diversity' Rank": 308
+  },
+  {
+    "Overall Rank*": 21,
+    "City": "Alexandria, VA",
+    "Total Score": 70.16,
+    "'Socioeconomic Diversity' Rank": 3,
+    "'Cultural Diversity' Rank": 37,
+    "'Economic Diversity' Rank": 297,
+    "'Household Diversity' Rank": 435,
+    "'Religious Diversity' Rank": 155
+  },
+  {
+    "Overall Rank*": 22,
+    "City": "New Rochelle, NY",
+    "Total Score": 70.14,
+    "'Socioeconomic Diversity' Rank": 4,
+    "'Cultural Diversity' Rank": 50,
+    "'Economic Diversity' Rank": 263,
+    "'Household Diversity' Rank": 247,
+    "'Religious Diversity' Rank": 180
+  },
+  {
+    "Overall Rank*": 8,
+    "City": "Germantown, MD",
+    "Total Score": 70.77,
+    "'Socioeconomic Diversity' Rank": 5,
+    "'Cultural Diversity' Rank": 3,
+    "'Economic Diversity' Rank": 264,
+    "'Household Diversity' Rank": 361,
+    "'Religious Diversity' Rank": 308
+  },
+  {
+    "Overall Rank*": 19,
+    "City": "San Diego, CA",
+    "Total Score": 70.24,
+    "'Socioeconomic Diversity' Rank": 6,
+    "'Cultural Diversity' Rank": 17,
+    "'Economic Diversity' Rank": 191,
+    "'Household Diversity' Rank": 173,
+    "'Religious Diversity' Rank": 302
+  },
+  {
+    "Overall Rank*": 171,
+    "City": "Seattle, WA",
+    "Total Score": 65.57,
+    "'Socioeconomic Diversity' Rank": 7,
+    "'Cultural Diversity' Rank": 138,
+    "'Economic Diversity' Rank": 445,
+    "'Household Diversity' Rank": 442,
+    "'Religious Diversity' Rank": 374
+  },
+  {
+    "Overall Rank*": 144,
+    "City": "Hoover, AL",
+    "Total Score": 66.26,
+    "'Socioeconomic Diversity' Rank": 8,
+    "'Cultural Diversity' Rank": 259,
+    "'Economic Diversity' Rank": 425,
+    "'Household Diversity' Rank": 458,
+    "'Religious Diversity' Rank": 32
+  },
+  {
+    "Overall Rank*": 50,
+    "City": "Plano, TX",
+    "Total Score": 68.56,
+    "'Socioeconomic Diversity' Rank": 9,
+    "'Cultural Diversity' Rank": 53,
+    "'Economic Diversity' Rank": 452,
+    "'Household Diversity' Rank": 449,
+    "'Religious Diversity' Rank": 213
+  },
+  {
+    "Overall Rank*": 15,
+    "City": "Aurora, IL",
+    "Total Score": 70.38,
+    "'Socioeconomic Diversity' Rank": 10,
+    "'Cultural Diversity' Rank": 48,
+    "'Economic Diversity' Rank": 334,
+    "'Household Diversity' Rank": 338,
+    "'Religious Diversity' Rank": 106
+  },
+  {
+    "Overall Rank*": 180,
+    "City": "Overland Park, KS",
+    "Total Score": 65.4,
+    "'Socioeconomic Diversity' Rank": 11,
+    "'Cultural Diversity' Rank": 307,
+    "'Economic Diversity' Rank": 465,
+    "'Household Diversity' Rank": 422,
+    "'Religious Diversity' Rank": 49
+  },
+  {
+    "Overall Rank*": 38,
+    "City": "Austin, TX",
+    "Total Score": 69.16,
+    "'Socioeconomic Diversity' Rank": 12,
+    "'Cultural Diversity' Rank": 73,
+    "'Economic Diversity' Rank": 157,
+    "'Household Diversity' Rank": 328,
+    "'Religious Diversity' Rank": 253
+  },
+  {
+    "Overall Rank*": 13,
+    "City": "Stamford, CT",
+    "Total Score": 70.53,
+    "'Socioeconomic Diversity' Rank": 13,
+    "'Cultural Diversity' Rank": 25,
+    "'Economic Diversity' Rank": 365,
+    "'Household Diversity' Rank": 275,
+    "'Religious Diversity' Rank": 162
+  },
+  {
+    "Overall Rank*": 210,
+    "City": "Lenexa, KS",
+    "Total Score": 64.95,
+    "'Socioeconomic Diversity' Rank": 14,
+    "'Cultural Diversity' Rank": 358,
+    "'Economic Diversity' Rank": 424,
+    "'Household Diversity' Rank": 433,
+    "'Religious Diversity' Rank": 49
+  },
+  {
+    "Overall Rank*": 16,
+    "City": "San Jose, CA",
+    "Total Score": 70.36,
+    "'Socioeconomic Diversity' Rank": 15,
+    "'Cultural Diversity' Rank": 8,
+    "'Economic Diversity' Rank": 322,
+    "'Household Diversity' Rank": 303,
+    "'Religious Diversity' Rank": 297
+  },
+  {
+    "Overall Rank*": 14,
+    "City": "Sandy Springs, GA",
+    "Total Score": 70.53,
+    "'Socioeconomic Diversity' Rank": 16,
+    "'Cultural Diversity' Rank": 84,
+    "'Economic Diversity' Rank": 477,
+    "'Household Diversity' Rank": 421,
+    "'Religious Diversity' Rank": 2
+  },
+  {
+    "Overall Rank*": 413,
+    "City": "Portsmouth, NH",
+    "Total Score": 60.64,
+    "'Socioeconomic Diversity' Rank": 17,
+    "'Cultural Diversity' Rank": 404,
+    "'Economic Diversity' Rank": 399,
+    "'Household Diversity' Rank": 418,
+    "'Religious Diversity' Rank": 429
+  },
+  {
+    "Overall Rank*": 32,
+    "City": "Washington, DC",
+    "Total Score": 69.45,
+    "'Socioeconomic Diversity' Rank": 18,
+    "'Cultural Diversity' Rank": 106,
+    "'Economic Diversity' Rank": 417,
+    "'Household Diversity' Rank": 455,
+    "'Religious Diversity' Rank": 17
+  },
+  {
+    "Overall Rank*": 23,
+    "City": "Roswell, GA",
+    "Total Score": 69.99,
+    "'Socioeconomic Diversity' Rank": 19,
+    "'Cultural Diversity' Rank": 121,
+    "'Economic Diversity' Rank": 440,
+    "'Household Diversity' Rank": 417,
+    "'Religious Diversity' Rank": 2
+  },
+  {
+    "Overall Rank*": 236,
+    "City": "Franklin, TN",
+    "Total Score": 64.56,
+    "'Socioeconomic Diversity' Rank": 20,
+    "'Cultural Diversity' Rank": 325,
+    "'Economic Diversity' Rank": 447,
+    "'Household Diversity' Rank": 475,
+    "'Religious Diversity' Rank": 77
+  },
+  {
+    "Overall Rank*": 329,
+    "City": "Hilton Head Island, SC",
+    "Total Score": 62.83,
+    "'Socioeconomic Diversity' Rank": 21,
+    "'Cultural Diversity' Rank": 256,
+    "'Economic Diversity' Rank": 339,
+    "'Household Diversity' Rank": 498,
+    "'Religious Diversity' Rank": 389
+  },
+  {
+    "Overall Rank*": 389,
+    "City": "South Burlington, VT",
+    "Total Score": 61.23,
+    "'Socioeconomic Diversity' Rank": 22,
+    "'Cultural Diversity' Rank": 384,
+    "'Economic Diversity' Rank": 476,
+    "'Household Diversity' Rank": 370,
+    "'Religious Diversity' Rank": 401
+  },
+  {
+    "Overall Rank*": 129,
+    "City": "Cary, NC",
+    "Total Score": 66.52,
+    "'Socioeconomic Diversity' Rank": 23,
+    "'Cultural Diversity' Rank": 125,
+    "'Economic Diversity' Rank": 473,
+    "'Household Diversity' Rank": 483,
+    "'Religious Diversity' Rank": 189
+  },
+  {
+    "Overall Rank*": 189,
+    "City": "Edmond, OK",
+    "Total Score": 65.23,
+    "'Socioeconomic Diversity' Rank": 24,
+    "'Cultural Diversity' Rank": 351,
+    "'Economic Diversity' Rank": 182,
+    "'Household Diversity' Rank": 448,
+    "'Religious Diversity' Rank": 68
+  },
+  {
+    "Overall Rank*": 65,
+    "City": "San Francisco, CA",
+    "Total Score": 68.22,
+    "'Socioeconomic Diversity' Rank": 25,
+    "'Cultural Diversity' Rank": 11,
+    "'Economic Diversity' Rank": 411,
+    "'Household Diversity' Rank": 412,
+    "'Religious Diversity' Rank": 411
+  },
+  {
+    "Overall Rank*": 290,
+    "City": "Bentonville, AR",
+    "Total Score": 63.76,
+    "'Socioeconomic Diversity' Rank": 26,
+    "'Cultural Diversity' Rank": 247,
+    "'Economic Diversity' Rank": 494,
+    "'Household Diversity' Rank": 445,
+    "'Religious Diversity' Rank": 269
+  },
+  {
+    "Overall Rank*": 20,
+    "City": "Norwalk, CT",
+    "Total Score": 70.24,
+    "'Socioeconomic Diversity' Rank": 27,
+    "'Cultural Diversity' Rank": 51,
+    "'Economic Diversity' Rank": 179,
+    "'Household Diversity' Rank": 212,
+    "'Religious Diversity' Rank": 162
+  },
+  {
+    "Overall Rank*": 331,
+    "City": "West Des Moines, IA",
+    "Total Score": 62.81,
+    "'Socioeconomic Diversity' Rank": 28,
+    "'Cultural Diversity' Rank": 376,
+    "'Economic Diversity' Rank": 478,
+    "'Household Diversity' Rank": 428,
+    "'Religious Diversity' Rank": 206
+  },
+  {
+    "Overall Rank*": 182,
+    "City": "West Hartford, CT",
+    "Total Score": 65.38,
+    "'Socioeconomic Diversity' Rank": 29,
+    "'Cultural Diversity' Rank": 209,
+    "'Economic Diversity' Rank": 480,
+    "'Household Diversity' Rank": 385,
+    "'Religious Diversity' Rank": 218
+  },
+  {
+    "Overall Rank*": 36,
+    "City": "Denver, CO",
+    "Total Score": 69.27,
+    "'Socioeconomic Diversity' Rank": 30,
+    "'Cultural Diversity' Rank": 85,
+    "'Economic Diversity' Rank": 293,
+    "'Household Diversity' Rank": 354,
+    "'Religious Diversity' Rank": 126
+  },
+  {
+    "Overall Rank*": 330,
+    "City": "Scottsdale, AZ",
+    "Total Score": 62.82,
+    "'Socioeconomic Diversity' Rank": 31,
+    "'Cultural Diversity' Rank": 313,
+    "'Economic Diversity' Rank": 457,
+    "'Household Diversity' Rank": 432,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 76,
+    "City": "Raleigh, NC",
+    "Total Score": 67.93,
+    "'Socioeconomic Diversity' Rank": 32,
+    "'Cultural Diversity' Rank": 128,
+    "'Economic Diversity' Rank": 288,
+    "'Household Diversity' Rank": 261,
+    "'Religious Diversity' Rank": 208
+  },
+  {
+    "Overall Rank*": 35,
+    "City": "Oakland, CA",
+    "Total Score": 69.34,
+    "'Socioeconomic Diversity' Rank": 33,
+    "'Cultural Diversity' Rank": 7,
+    "'Economic Diversity' Rank": 116,
+    "'Household Diversity' Rank": 152,
+    "'Religious Diversity' Rank": 432
+  },
+  {
+    "Overall Rank*": 33,
+    "City": "Rockville, MD",
+    "Total Score": 69.41,
+    "'Socioeconomic Diversity' Rank": 34,
+    "'Cultural Diversity' Rank": 9,
+    "'Economic Diversity' Rank": 415,
+    "'Household Diversity' Rank": 365,
+    "'Religious Diversity' Rank": 308
+  },
+  {
+    "Overall Rank*": 160,
+    "City": "Olathe, KS",
+    "Total Score": 65.94,
+    "'Socioeconomic Diversity' Rank": 35,
+    "'Cultural Diversity' Rank": 280,
+    "'Economic Diversity' Rank": 306,
+    "'Household Diversity' Rank": 463,
+    "'Religious Diversity' Rank": 49
+  },
+  {
+    "Overall Rank*": 286,
+    "City": "Mount Pleasant, SC",
+    "Total Score": 63.81,
+    "'Socioeconomic Diversity' Rank": 36,
+    "'Cultural Diversity' Rank": 424,
+    "'Economic Diversity' Rank": 349,
+    "'Household Diversity' Rank": 443,
+    "'Religious Diversity' Rank": 22
+  },
+  {
+    "Overall Rank*": 281,
+    "City": "Pike Creek Valley, DE",
+    "Total Score": 63.91,
+    "'Socioeconomic Diversity' Rank": 36,
+    "'Cultural Diversity' Rank": 308,
+    "'Economic Diversity' Rank": 468,
+    "'Household Diversity' Rank": 380,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 235,
+    "City": "Madison, AL",
+    "Total Score": 64.56,
+    "'Socioeconomic Diversity' Rank": 38,
+    "'Cultural Diversity' Rank": 252,
+    "'Economic Diversity' Rank": 399,
+    "'Household Diversity' Rank": 461,
+    "'Religious Diversity' Rank": 236
+  },
+  {
+    "Overall Rank*": 67,
+    "City": "Durham, NC",
+    "Total Score": 68.16,
+    "'Socioeconomic Diversity' Rank": 39,
+    "'Cultural Diversity' Rank": 89,
+    "'Economic Diversity' Rank": 459,
+    "'Household Diversity' Rank": 234,
+    "'Religious Diversity' Rank": 209
+  },
+  {
+    "Overall Rank*": 207,
+    "City": "Beaverton, OR",
+    "Total Score": 64.99,
+    "'Socioeconomic Diversity' Rank": 40,
+    "'Cultural Diversity' Rank": 113,
+    "'Economic Diversity' Rank": 352,
+    "'Household Diversity' Rank": 257,
+    "'Religious Diversity' Rank": 455
+  },
+  {
+    "Overall Rank*": 1,
+    "City": "Jersey City, NJ",
+    "Total Score": 71.51,
+    "'Socioeconomic Diversity' Rank": 41,
+    "'Cultural Diversity' Rank": 1,
+    "'Economic Diversity' Rank": 385,
+    "'Household Diversity' Rank": 113,
+    "'Religious Diversity' Rank": 257
+  },
+  {
+    "Overall Rank*": 106,
+    "City": "Chandler, AZ",
+    "Total Score": 66.98,
+    "'Socioeconomic Diversity' Rank": 42,
+    "'Cultural Diversity' Rank": 100,
+    "'Economic Diversity' Rank": 329,
+    "'Household Diversity' Rank": 348,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 239,
+    "City": "Plymouth, MN",
+    "Total Score": 64.52,
+    "'Socioeconomic Diversity' Rank": 43,
+    "'Cultural Diversity' Rank": 320,
+    "'Economic Diversity' Rank": 485,
+    "'Household Diversity' Rank": 466,
+    "'Religious Diversity' Rank": 44
+  },
+  {
+    "Overall Rank*": 40,
+    "City": "Boston, MA",
+    "Total Score": 69.06,
+    "'Socioeconomic Diversity' Rank": 44,
+    "'Cultural Diversity' Rank": 19,
+    "'Economic Diversity' Rank": 474,
+    "'Household Diversity' Rank": 403,
+    "'Religious Diversity' Rank": 251
+  },
+  {
+    "Overall Rank*": 384,
+    "City": "Fishers, IN",
+    "Total Score": 61.33,
+    "'Socioeconomic Diversity' Rank": 45,
+    "'Cultural Diversity' Rank": 374,
+    "'Economic Diversity' Rank": 472,
+    "'Household Diversity' Rank": 494,
+    "'Religious Diversity' Rank": 290
+  },
+  {
+    "Overall Rank*": 458,
+    "City": "Montpelier, VT",
+    "Total Score": 58.96,
+    "'Socioeconomic Diversity' Rank": 46,
+    "'Cultural Diversity' Rank": 456,
+    "'Economic Diversity' Rank": 456,
+    "'Household Diversity' Rank": 320,
+    "'Religious Diversity' Rank": 434
+  },
+  {
+    "Overall Rank*": 120,
+    "City": "Bellevue, WA",
+    "Total Score": 66.66,
+    "'Socioeconomic Diversity' Rank": 47,
+    "'Cultural Diversity' Rank": 46,
+    "'Economic Diversity' Rank": 493,
+    "'Household Diversity' Rank": 444,
+    "'Religious Diversity' Rank": 374
+  },
+  {
+    "Overall Rank*": 202,
+    "City": "Hillsboro, OR",
+    "Total Score": 65.02,
+    "'Socioeconomic Diversity' Rank": 48,
+    "'Cultural Diversity' Rank": 91,
+    "'Economic Diversity' Rank": 426,
+    "'Household Diversity' Rank": 386,
+    "'Religious Diversity' Rank": 455
+  },
+  {
+    "Overall Rank*": 112,
+    "City": "Quincy, MA",
+    "Total Score": 66.82,
+    "'Socioeconomic Diversity' Rank": 49,
+    "'Cultural Diversity' Rank": 105,
+    "'Economic Diversity' Rank": 407,
+    "'Household Diversity' Rank": 332,
+    "'Religious Diversity' Rank": 333
+  },
+  {
+    "Overall Rank*": 368,
+    "City": "Jackson, WY",
+    "Total Score": 62.01,
+    "'Socioeconomic Diversity' Rank": 50,
+    "'Cultural Diversity' Rank": 165,
+    "'Economic Diversity' Rank": 479,
+    "'Household Diversity' Rank": 357,
+    "'Religious Diversity' Rank": 491
+  },
+  {
+    "Overall Rank*": 66,
+    "City": "Columbia, MD",
+    "Total Score": 68.19,
+    "'Socioeconomic Diversity' Rank": 51,
+    "'Cultural Diversity' Rank": 64,
+    "'Economic Diversity' Rank": 434,
+    "'Household Diversity' Rank": 351,
+    "'Religious Diversity' Rank": 283
+  },
+  {
+    "Overall Rank*": 204,
+    "City": "Rochester, MN",
+    "Total Score": 65.01,
+    "'Socioeconomic Diversity' Rank": 52,
+    "'Cultural Diversity' Rank": 282,
+    "'Economic Diversity' Rank": 499,
+    "'Household Diversity' Rank": 379,
+    "'Religious Diversity' Rank": 14
+  },
+  {
+    "Overall Rank*": 59,
+    "City": "Frederick, MD",
+    "Total Score": 68.39,
+    "'Socioeconomic Diversity' Rank": 53,
+    "'Cultural Diversity' Rank": 86,
+    "'Economic Diversity' Rank": 158,
+    "'Household Diversity' Rank": 126,
+    "'Religious Diversity' Rank": 301
+  },
+  {
+    "Overall Rank*": 320,
+    "City": "College, AK",
+    "Total Score": 63.01,
+    "'Socioeconomic Diversity' Rank": 54,
+    "'Cultural Diversity' Rank": 222,
+    "'Economic Diversity' Rank": 67,
+    "'Household Diversity' Rank": 287,
+    "'Religious Diversity' Rank": 477
+  },
+  {
+    "Overall Rank*": 265,
+    "City": "Portland, OR",
+    "Total Score": 64.07,
+    "'Socioeconomic Diversity' Rank": 55,
+    "'Cultural Diversity' Rank": 188,
+    "'Economic Diversity' Rank": 313,
+    "'Household Diversity' Rank": 284,
+    "'Religious Diversity' Rank": 441
+  },
+  {
+    "Overall Rank*": 224,
+    "City": "Madison, WI",
+    "Total Score": 64.67,
+    "'Socioeconomic Diversity' Rank": 56,
+    "'Cultural Diversity' Rank": 260,
+    "'Economic Diversity' Rank": 401,
+    "'Household Diversity' Rank": 419,
+    "'Religious Diversity' Rank": 243
+  },
+  {
+    "Overall Rank*": 12,
+    "City": "Danbury, CT",
+    "Total Score": 70.54,
+    "'Socioeconomic Diversity' Rank": 57,
+    "'Cultural Diversity' Rank": 40,
+    "'Economic Diversity' Rank": 140,
+    "'Household Diversity' Rank": 151,
+    "'Religious Diversity' Rank": 162
+  },
+  {
+    "Overall Rank*": 466,
+    "City": "Dover, NH",
+    "Total Score": 58.47,
+    "'Socioeconomic Diversity' Rank": 58,
+    "'Cultural Diversity' Rank": 427,
+    "'Economic Diversity' Rank": 319,
+    "'Household Diversity' Rank": 218,
+    "'Religious Diversity' Rank": 489
+  },
+  {
+    "Overall Rank*": 238,
+    "City": "Shawnee, KS",
+    "Total Score": 64.53,
+    "'Socioeconomic Diversity' Rank": 59,
+    "'Cultural Diversity' Rank": 373,
+    "'Economic Diversity' Rank": 300,
+    "'Household Diversity' Rank": 441,
+    "'Religious Diversity' Rank": 49
+  },
+  {
+    "Overall Rank*": 139,
+    "City": "Bloomington, MN",
+    "Total Score": 66.34,
+    "'Socioeconomic Diversity' Rank": 60,
+    "'Cultural Diversity' Rank": 272,
+    "'Economic Diversity' Rank": 350,
+    "'Household Diversity' Rank": 368,
+    "'Religious Diversity' Rank": 44
+  },
+  {
+    "Overall Rank*": 484,
+    "City": "Lebanon, NH",
+    "Total Score": 57.3,
+    "'Socioeconomic Diversity' Rank": 61,
+    "'Cultural Diversity' Rank": 353,
+    "'Economic Diversity' Rank": 498,
+    "'Household Diversity' Rank": 416,
+    "'Religious Diversity' Rank": 499
+  },
+  {
+    "Overall Rank*": 211,
+    "City": "Charleston, SC",
+    "Total Score": 64.94,
+    "'Socioeconomic Diversity' Rank": 62,
+    "'Cultural Diversity' Rank": 326,
+    "'Economic Diversity' Rank": 233,
+    "'Household Diversity' Rank": 339,
+    "'Religious Diversity' Rank": 148
+  },
+  {
+    "Overall Rank*": 28,
+    "City": "Charlotte, NC",
+    "Total Score": 69.67,
+    "'Socioeconomic Diversity' Rank": 63,
+    "'Cultural Diversity' Rank": 80,
+    "'Economic Diversity' Rank": 342,
+    "'Household Diversity' Rank": 194,
+    "'Religious Diversity' Rank": 91
+  },
+  {
+    "Overall Rank*": 308,
+    "City": "Fort Collins, CO",
+    "Total Score": 63.29,
+    "'Socioeconomic Diversity' Rank": 64,
+    "'Cultural Diversity' Rank": 348,
+    "'Economic Diversity' Rank": 228,
+    "'Household Diversity' Rank": 333,
+    "'Religious Diversity' Rank": 329
+  },
+  {
+    "Overall Rank*": 407,
+    "City": "Centennial, CO",
+    "Total Score": 60.82,
+    "'Socioeconomic Diversity' Rank": 65,
+    "'Cultural Diversity' Rank": 344,
+    "'Economic Diversity' Rank": 393,
+    "'Household Diversity' Rank": 488,
+    "'Religious Diversity' Rank": 436
+  },
+  {
+    "Overall Rank*": 214,
+    "City": "Cambridge, MA",
+    "Total Score": 64.91,
+    "'Socioeconomic Diversity' Rank": 66,
+    "'Cultural Diversity' Rank": 78,
+    "'Economic Diversity' Rank": 501,
+    "'Household Diversity' Rank": 481,
+    "'Religious Diversity' Rank": 281
+  },
+  {
+    "Overall Rank*": 294,
+    "City": "Newport, RI",
+    "Total Score": 63.65,
+    "'Socioeconomic Diversity' Rank": 67,
+    "'Cultural Diversity' Rank": 290,
+    "'Economic Diversity' Rank": 325,
+    "'Household Diversity' Rank": 414,
+    "'Religious Diversity' Rank": 327
+  },
+  {
+    "Overall Rank*": 220,
+    "City": "Woodbury, MN",
+    "Total Score": 64.76,
+    "'Socioeconomic Diversity' Rank": 68,
+    "'Cultural Diversity' Rank": 294,
+    "'Economic Diversity' Rank": 453,
+    "'Household Diversity' Rank": 487,
+    "'Religious Diversity' Rank": 54
+  },
+  {
+    "Overall Rank*": 3,
+    "City": "New York, NY",
+    "Total Score": 71.41,
+    "'Socioeconomic Diversity' Rank": 69,
+    "'Cultural Diversity' Rank": 6,
+    "'Economic Diversity' Rank": 245,
+    "'Household Diversity' Rank": 89,
+    "'Religious Diversity' Rank": 204
+  },
+  {
+    "Overall Rank*": 71,
+    "City": "Minneapolis, MN",
+    "Total Score": 68.08,
+    "'Socioeconomic Diversity' Rank": 70,
+    "'Cultural Diversity' Rank": 132,
+    "'Economic Diversity' Rank": 432,
+    "'Household Diversity' Rank": 437,
+    "'Religious Diversity' Rank": 44
+  },
+  {
+    "Overall Rank*": 30,
+    "City": "Anaheim, CA",
+    "Total Score": 69.56,
+    "'Socioeconomic Diversity' Rank": 71,
+    "'Cultural Diversity' Rank": 44,
+    "'Economic Diversity' Rank": 162,
+    "'Household Diversity' Rank": 148,
+    "'Religious Diversity' Rank": 278
+  },
+  {
+    "Overall Rank*": 54,
+    "City": "Honolulu, HI",
+    "Total Score": 68.43,
+    "'Socioeconomic Diversity' Rank": 72,
+    "'Cultural Diversity' Rank": 68,
+    "'Economic Diversity' Rank": 71,
+    "'Household Diversity' Rank": 185,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 64,
+    "City": "Santa Fe, NM",
+    "Total Score": 68.23,
+    "'Socioeconomic Diversity' Rank": 73,
+    "'Cultural Diversity' Rank": 97,
+    "'Economic Diversity' Rank": 31,
+    "'Household Diversity' Rank": 250,
+    "'Religious Diversity' Rank": 298
+  },
+  {
+    "Overall Rank*": 292,
+    "City": "Westminster, CO",
+    "Total Score": 63.76,
+    "'Socioeconomic Diversity' Rank": 74,
+    "'Cultural Diversity' Rank": 204,
+    "'Economic Diversity' Rank": 172,
+    "'Household Diversity' Rank": 326,
+    "'Religious Diversity' Rank": 447
+  },
+  {
+    "Overall Rank*": 412,
+    "City": "Essex Junction, VT",
+    "Total Score": 60.66,
+    "'Socioeconomic Diversity' Rank": 75,
+    "'Cultural Diversity' Rank": 408,
+    "'Economic Diversity' Rank": 428,
+    "'Household Diversity' Rank": 373,
+    "'Religious Diversity' Rank": 401
+  },
+  {
+    "Overall Rank*": 321,
+    "City": "Lee's Summit, MO",
+    "Total Score": 62.95,
+    "'Socioeconomic Diversity' Rank": 76,
+    "'Cultural Diversity' Rank": 401,
+    "'Economic Diversity' Rank": 370,
+    "'Household Diversity' Rank": 467,
+    "'Religious Diversity' Rank": 103
+  },
+  {
+    "Overall Rank*": 7,
+    "City": "Los Angeles, CA",
+    "Total Score": 70.87,
+    "'Socioeconomic Diversity' Rank": 77,
+    "'Cultural Diversity' Rank": 20,
+    "'Economic Diversity' Rank": 64,
+    "'Household Diversity' Rank": 75,
+    "'Religious Diversity' Rank": 211
+  },
+  {
+    "Overall Rank*": 161,
+    "City": "Salt Lake City, UT",
+    "Total Score": 65.93,
+    "'Socioeconomic Diversity' Rank": 78,
+    "'Cultural Diversity' Rank": 134,
+    "'Economic Diversity' Rank": 269,
+    "'Household Diversity' Rank": 321,
+    "'Religious Diversity' Rank": 390
+  },
+  {
+    "Overall Rank*": 43,
+    "City": "Renton, WA",
+    "Total Score": 68.94,
+    "'Socioeconomic Diversity' Rank": 79,
+    "'Cultural Diversity' Rank": 21,
+    "'Economic Diversity' Rank": 223,
+    "'Household Diversity' Rank": 183,
+    "'Religious Diversity' Rank": 374
+  },
+  {
+    "Overall Rank*": 376,
+    "City": "Ann Arbor, MI",
+    "Total Score": 61.61,
+    "'Socioeconomic Diversity' Rank": 80,
+    "'Cultural Diversity' Rank": 167,
+    "'Economic Diversity' Rank": 500,
+    "'Household Diversity' Rank": 465,
+    "'Religious Diversity' Rank": 437
+  },
+  {
+    "Overall Rank*": 299,
+    "City": "Newark, DE",
+    "Total Score": 63.52,
+    "'Socioeconomic Diversity' Rank": 81,
+    "'Cultural Diversity' Rank": 243,
+    "'Economic Diversity' Rank": 490,
+    "'Household Diversity' Rank": 480,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 17,
+    "City": "Yonkers, NY",
+    "Total Score": 70.35,
+    "'Socioeconomic Diversity' Rank": 82,
+    "'Cultural Diversity' Rank": 30,
+    "'Economic Diversity' Rank": 265,
+    "'Household Diversity' Rank": 73,
+    "'Religious Diversity' Rank": 180
+  },
+  {
+    "Overall Rank*": 165,
+    "City": "Naperville, IL",
+    "Total Score": 65.75,
+    "'Socioeconomic Diversity' Rank": 83,
+    "'Cultural Diversity' Rank": 175,
+    "'Economic Diversity' Rank": 481,
+    "'Household Diversity' Rank": 493,
+    "'Religious Diversity' Rank": 78
+  },
+  {
+    "Overall Rank*": 243,
+    "City": "Nashua, NH",
+    "Total Score": 64.44,
+    "'Socioeconomic Diversity' Rank": 84,
+    "'Cultural Diversity' Rank": 228,
+    "'Economic Diversity' Rank": 358,
+    "'Household Diversity' Rank": 198,
+    "'Religious Diversity' Rank": 368
+  },
+  {
+    "Overall Rank*": 24,
+    "City": "Johns Creek, GA",
+    "Total Score": 69.89,
+    "'Socioeconomic Diversity' Rank": 85,
+    "'Cultural Diversity' Rank": 41,
+    "'Economic Diversity' Rank": 487,
+    "'Household Diversity' Rank": 501,
+    "'Religious Diversity' Rank": 2
+  },
+  {
+    "Overall Rank*": 278,
+    "City": "Gilbert, AZ",
+    "Total Score": 63.93,
+    "'Socioeconomic Diversity' Rank": 86,
+    "'Cultural Diversity' Rank": 220,
+    "'Economic Diversity' Rank": 324,
+    "'Household Diversity' Rank": 468,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 9,
+    "City": "Long Beach, CA",
+    "Total Score": 70.76,
+    "'Socioeconomic Diversity' Rank": 87,
+    "'Cultural Diversity' Rank": 23,
+    "'Economic Diversity' Rank": 69,
+    "'Household Diversity' Rank": 54,
+    "'Religious Diversity' Rank": 211
+  },
+  {
+    "Overall Rank*": 388,
+    "City": "Carmel, IN",
+    "Total Score": 61.27,
+    "'Socioeconomic Diversity' Rank": 88,
+    "'Cultural Diversity' Rank": 349,
+    "'Economic Diversity' Rank": 489,
+    "'Household Diversity' Rank": 497,
+    "'Religious Diversity' Rank": 290
+  },
+  {
+    "Overall Rank*": 338,
+    "City": "Maple Grove, MN",
+    "Total Score": 62.68,
+    "'Socioeconomic Diversity' Rank": 89,
+    "'Cultural Diversity' Rank": 392,
+    "'Economic Diversity' Rank": 475,
+    "'Household Diversity' Rank": 492,
+    "'Religious Diversity' Rank": 44
+  },
+  {
+    "Overall Rank*": 406,
+    "City": "Sandy, UT",
+    "Total Score": 60.83,
+    "'Socioeconomic Diversity' Rank": 90,
+    "'Cultural Diversity' Rank": 395,
+    "'Economic Diversity' Rank": 273,
+    "'Household Diversity' Rank": 477,
+    "'Religious Diversity' Rank": 390
+  },
+  {
+    "Overall Rank*": 401,
+    "City": "Arvada, CO",
+    "Total Score": 60.97,
+    "'Socioeconomic Diversity' Rank": 91,
+    "'Cultural Diversity' Rank": 377,
+    "'Economic Diversity' Rank": 153,
+    "'Household Diversity' Rank": 378,
+    "'Religious Diversity' Rank": 447
+  },
+  {
+    "Overall Rank*": 18,
+    "City": "Clifton, NJ",
+    "Total Score": 70.29,
+    "'Socioeconomic Diversity' Rank": 92,
+    "'Cultural Diversity' Rank": 24,
+    "'Economic Diversity' Rank": 234,
+    "'Household Diversity' Rank": 242,
+    "'Religious Diversity' Rank": 169
+  },
+  {
+    "Overall Rank*": 257,
+    "City": "Arlington, VA",
+    "Total Score": 64.18,
+    "'Socioeconomic Diversity' Rank": 93,
+    "'Cultural Diversity' Rank": 81,
+    "'Economic Diversity' Rank": 471,
+    "'Household Diversity' Rank": 459,
+    "'Religious Diversity' Rank": 453
+  },
+  {
+    "Overall Rank*": 41,
+    "City": "St. Paul, MN",
+    "Total Score": 69.05,
+    "'Socioeconomic Diversity' Rank": 94,
+    "'Cultural Diversity' Rank": 76,
+    "'Economic Diversity' Rank": 378,
+    "'Household Diversity' Rank": 239,
+    "'Religious Diversity' Rank": 131
+  },
+  {
+    "Overall Rank*": 186,
+    "City": "Middletown, DE",
+    "Total Score": 65.32,
+    "'Socioeconomic Diversity' Rank": 95,
+    "'Cultural Diversity' Rank": 194,
+    "'Economic Diversity' Rank": 450,
+    "'Household Diversity' Rank": 407,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 93,
+    "City": "Atlanta, GA",
+    "Total Score": 67.25,
+    "'Socioeconomic Diversity' Rank": 96,
+    "'Cultural Diversity' Rank": 195,
+    "'Economic Diversity' Rank": 409,
+    "'Household Diversity' Rank": 471,
+    "'Religious Diversity' Rank": 15
+  },
+  {
+    "Overall Rank*": 29,
+    "City": "Elgin, IL",
+    "Total Score": 69.64,
+    "'Socioeconomic Diversity' Rank": 97,
+    "'Cultural Diversity' Rank": 67,
+    "'Economic Diversity' Rank": 284,
+    "'Household Diversity' Rank": 290,
+    "'Religious Diversity' Rank": 101
+  },
+  {
+    "Overall Rank*": 385,
+    "City": "O'Fallon, MO",
+    "Total Score": 61.28,
+    "'Socioeconomic Diversity' Rank": 98,
+    "'Cultural Diversity' Rank": 454,
+    "'Economic Diversity' Rank": 372,
+    "'Household Diversity' Rank": 454,
+    "'Religious Diversity' Rank": 142
+  },
+  {
+    "Overall Rank*": 149,
+    "City": "Rogers, AR",
+    "Total Score": 66.19,
+    "'Socioeconomic Diversity' Rank": 99,
+    "'Cultural Diversity' Rank": 148,
+    "'Economic Diversity' Rank": 390,
+    "'Household Diversity' Rank": 424,
+    "'Religious Diversity' Rank": 269
+  },
+  {
+    "Overall Rank*": 11,
+    "City": "Chicago, IL",
+    "Total Score": 70.64,
+    "'Socioeconomic Diversity' Rank": 100,
+    "'Cultural Diversity' Rank": 36,
+    "'Economic Diversity' Rank": 255,
+    "'Household Diversity' Rank": 252,
+    "'Religious Diversity' Rank": 76
+  },
+  {
+    "Overall Rank*": 146,
+    "City": "Anchorage, AK",
+    "Total Score": 66.21,
+    "'Socioeconomic Diversity' Rank": 101,
+    "'Cultural Diversity' Rank": 122,
+    "'Economic Diversity' Rank": 33,
+    "'Household Diversity' Rank": 249,
+    "'Religious Diversity' Rank": 414
+  },
+  {
+    "Overall Rank*": 131,
+    "City": "Kailua, HI",
+    "Total Score": 66.51,
+    "'Socioeconomic Diversity' Rank": 102,
+    "'Cultural Diversity' Rank": 129,
+    "'Economic Diversity' Rank": 60,
+    "'Household Diversity' Rank": 390,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 429,
+    "City": "Livonia, MI",
+    "Total Score": 60.22,
+    "'Socioeconomic Diversity' Rank": 103,
+    "'Cultural Diversity' Rank": 470,
+    "'Economic Diversity' Rank": 408,
+    "'Household Diversity' Rank": 440,
+    "'Religious Diversity' Rank": 247
+  },
+  {
+    "Overall Rank*": 409,
+    "City": "Burlington, VT",
+    "Total Score": 60.74,
+    "'Socioeconomic Diversity' Rank": 104,
+    "'Cultural Diversity' Rank": 356,
+    "'Economic Diversity' Rank": 461,
+    "'Household Diversity' Rank": 482,
+    "'Religious Diversity' Rank": 401
+  },
+  {
+    "Overall Rank*": 56,
+    "City": "Nashville, TN",
+    "Total Score": 68.43,
+    "'Socioeconomic Diversity' Rank": 105,
+    "'Cultural Diversity' Rank": 147,
+    "'Economic Diversity' Rank": 235,
+    "'Household Diversity' Rank": 202,
+    "'Religious Diversity' Rank": 64
+  },
+  {
+    "Overall Rank*": 267,
+    "City": "Lakewood, CO",
+    "Total Score": 64.06,
+    "'Socioeconomic Diversity' Rank": 106,
+    "'Cultural Diversity' Rank": 227,
+    "'Economic Diversity' Rank": 101,
+    "'Household Diversity' Rank": 251,
+    "'Religious Diversity' Rank": 417
+  },
+  {
+    "Overall Rank*": 177,
+    "City": "Lexington, KY",
+    "Total Score": 65.52,
+    "'Socioeconomic Diversity' Rank": 107,
+    "'Cultural Diversity' Rank": 281,
+    "'Economic Diversity' Rank": 302,
+    "'Household Diversity' Rank": 209,
+    "'Religious Diversity' Rank": 129
+  },
+  {
+    "Overall Rank*": 481,
+    "City": "South Portland, ME",
+    "Total Score": 57.62,
+    "'Socioeconomic Diversity' Rank": 108,
+    "'Cultural Diversity' Rank": 464,
+    "'Economic Diversity' Rank": 387,
+    "'Household Diversity' Rank": 139,
+    "'Religious Diversity' Rank": 483
+  },
+  {
+    "Overall Rank*": 312,
+    "City": "Juneau, AK",
+    "Total Score": 63.22,
+    "'Socioeconomic Diversity' Rank": 109,
+    "'Cultural Diversity' Rank": 214,
+    "'Economic Diversity' Rank": 4,
+    "'Household Diversity' Rank": 321,
+    "'Religious Diversity' Rank": 474
+  },
+  {
+    "Overall Rank*": 174,
+    "City": "Huntsville, AL",
+    "Total Score": 65.55,
+    "'Socioeconomic Diversity' Rank": 110,
+    "'Cultural Diversity' Rank": 230,
+    "'Economic Diversity' Rank": 221,
+    "'Household Diversity' Rank": 277,
+    "'Religious Diversity' Rank": 236
+  },
+  {
+    "Overall Rank*": 170,
+    "City": "Virginia Beach, VA",
+    "Total Score": 65.58,
+    "'Socioeconomic Diversity' Rank": 111,
+    "'Cultural Diversity' Rank": 177,
+    "'Economic Diversity' Rank": 48,
+    "'Household Diversity' Rank": 239,
+    "'Religious Diversity' Rank": 386
+  },
+  {
+    "Overall Rank*": 173,
+    "City": "East Honolulu, HI",
+    "Total Score": 65.55,
+    "'Socioeconomic Diversity' Rank": 112,
+    "'Cultural Diversity' Rank": 118,
+    "'Economic Diversity' Rank": 160,
+    "'Household Diversity' Rank": 490,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 391,
+    "City": "Hockessin, DE",
+    "Total Score": 61.2,
+    "'Socioeconomic Diversity' Rank": 113,
+    "'Cultural Diversity' Rank": 355,
+    "'Economic Diversity' Rank": 497,
+    "'Household Diversity' Rank": 495,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 499,
+    "City": "Orem, UT",
+    "Total Score": 55.38,
+    "'Socioeconomic Diversity' Rank": 114,
+    "'Cultural Diversity' Rank": 257,
+    "'Economic Diversity' Rank": 391,
+    "'Household Diversity' Rank": 473,
+    "'Religious Diversity' Rank": 500
+  },
+  {
+    "Overall Rank*": 327,
+    "City": "St. Charles, MO",
+    "Total Score": 62.84,
+    "'Socioeconomic Diversity' Rank": 115,
+    "'Cultural Diversity' Rank": 398,
+    "'Economic Diversity' Rank": 439,
+    "'Household Diversity' Rank": 301,
+    "'Religious Diversity' Rank": 142
+  },
+  {
+    "Overall Rank*": 2,
+    "City": "Houston, TX",
+    "Total Score": 71.49,
+    "'Socioeconomic Diversity' Rank": 116,
+    "'Cultural Diversity' Rank": 27,
+    "'Economic Diversity' Rank": 117,
+    "'Household Diversity' Rank": 106,
+    "'Religious Diversity' Rank": 53
+  },
+  {
+    "Overall Rank*": 26,
+    "City": "Fort Worth, TX",
+    "Total Score": 69.78,
+    "'Socioeconomic Diversity' Rank": 117,
+    "'Cultural Diversity' Rank": 58,
+    "'Economic Diversity' Rank": 108,
+    "'Household Diversity' Rank": 144,
+    "'Religious Diversity' Rank": 161
+  },
+  {
+    "Overall Rank*": 453,
+    "City": "Concord, NH",
+    "Total Score": 59.15,
+    "'Socioeconomic Diversity' Rank": 118,
+    "'Cultural Diversity' Rank": 432,
+    "'Economic Diversity' Rank": 190,
+    "'Household Diversity' Rank": 182,
+    "'Religious Diversity' Rank": 460
+  },
+  {
+    "Overall Rank*": 96,
+    "City": "Fort Lauderdale, FL",
+    "Total Score": 67.19,
+    "'Socioeconomic Diversity' Rank": 119,
+    "'Cultural Diversity' Rank": 63,
+    "'Economic Diversity' Rank": 185,
+    "'Household Diversity' Rank": 294,
+    "'Religious Diversity' Rank": 407
+  },
+  {
+    "Overall Rank*": 472,
+    "City": "Bend, OR",
+    "Total Score": 58.24,
+    "'Socioeconomic Diversity' Rank": 120,
+    "'Cultural Diversity' Rank": 414,
+    "'Economic Diversity' Rank": 129,
+    "'Household Diversity' Rank": 356,
+    "'Religious Diversity' Rank": 493
+  },
+  {
+    "Overall Rank*": 124,
+    "City": "Tempe, AZ",
+    "Total Score": 66.59,
+    "'Socioeconomic Diversity' Rank": 121,
+    "'Cultural Diversity' Rank": 90,
+    "'Economic Diversity' Rank": 337,
+    "'Household Diversity' Rank": 391,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 287,
+    "City": "Thornton, CO",
+    "Total Score": 63.8,
+    "'Socioeconomic Diversity' Rank": 122,
+    "'Cultural Diversity' Rank": 141,
+    "'Economic Diversity' Rank": 98,
+    "'Household Diversity' Rank": 353,
+    "'Religious Diversity' Rank": 476
+  },
+  {
+    "Overall Rank*": 293,
+    "City": "Colorado Springs, CO",
+    "Total Score": 63.7,
+    "'Socioeconomic Diversity' Rank": 123,
+    "'Cultural Diversity' Rank": 208,
+    "'Economic Diversity' Rank": 150,
+    "'Household Diversity' Rank": 299,
+    "'Religious Diversity' Rank": 438
+  },
+  {
+    "Overall Rank*": 245,
+    "City": "Sitka and, AK",
+    "Total Score": 64.43,
+    "'Socioeconomic Diversity' Rank": 124,
+    "'Cultural Diversity' Rank": 189,
+    "'Economic Diversity' Rank": 12,
+    "'Household Diversity' Rank": 345,
+    "'Religious Diversity' Rank": 440
+  },
+  {
+    "Overall Rank*": 304,
+    "City": "Norman, OK",
+    "Total Score": 63.37,
+    "'Socioeconomic Diversity' Rank": 125,
+    "'Cultural Diversity' Rank": 296,
+    "'Economic Diversity' Rank": 253,
+    "'Household Diversity' Rank": 276,
+    "'Religious Diversity' Rank": 364
+  },
+  {
+    "Overall Rank*": 167,
+    "City": "Bartlett, TN",
+    "Total Score": 65.68,
+    "'Socioeconomic Diversity' Rank": 126,
+    "'Cultural Diversity' Rank": 330,
+    "'Economic Diversity' Rank": 187,
+    "'Household Diversity' Rank": 464,
+    "'Religious Diversity' Rank": 10
+  },
+  {
+    "Overall Rank*": 164,
+    "City": "Metairie, LA",
+    "Total Score": 65.78,
+    "'Socioeconomic Diversity' Rank": 127,
+    "'Cultural Diversity' Rank": 246,
+    "'Economic Diversity' Rank": 136,
+    "'Household Diversity' Rank": 204,
+    "'Religious Diversity' Rank": 192
+  },
+  {
+    "Overall Rank*": 5,
+    "City": "Dallas, TX",
+    "Total Score": 70.97,
+    "'Socioeconomic Diversity' Rank": 128,
+    "'Cultural Diversity' Rank": 43,
+    "'Economic Diversity' Rank": 186,
+    "'Household Diversity' Rank": 118,
+    "'Religious Diversity' Rank": 43
+  },
+  {
+    "Overall Rank*": 400,
+    "City": "St. Peters, MO",
+    "Total Score": 61,
+    "'Socioeconomic Diversity' Rank": 129,
+    "'Cultural Diversity' Rank": 457,
+    "'Economic Diversity' Rank": 421,
+    "'Household Diversity' Rank": 446,
+    "'Religious Diversity' Rank": 142
+  },
+  {
+    "Overall Rank*": 228,
+    "City": "Cranston, RI",
+    "Total Score": 64.64,
+    "'Socioeconomic Diversity' Rank": 130,
+    "'Cultural Diversity' Rank": 231,
+    "'Economic Diversity' Rank": 312,
+    "'Household Diversity' Rank": 210,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 227,
+    "City": "Chesapeake, VA",
+    "Total Score": 64.64,
+    "'Socioeconomic Diversity' Rank": 131,
+    "'Cultural Diversity' Rank": 229,
+    "'Economic Diversity' Rank": 35,
+    "'Household Diversity' Rank": 350,
+    "'Religious Diversity' Rank": 373
+  },
+  {
+    "Overall Rank*": 58,
+    "City": "Bear, DE",
+    "Total Score": 68.4,
+    "'Socioeconomic Diversity' Rank": 132,
+    "'Cultural Diversity' Rank": 69,
+    "'Economic Diversity' Rank": 315,
+    "'Household Diversity' Rank": 268,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 423,
+    "City": "Warwick, RI",
+    "Total Score": 60.42,
+    "'Socioeconomic Diversity' Rank": 133,
+    "'Cultural Diversity' Rank": 446,
+    "'Economic Diversity' Rank": 283,
+    "'Household Diversity' Rank": 309,
+    "'Religious Diversity' Rank": 348
+  },
+  {
+    "Overall Rank*": 10,
+    "City": "Arlington, TX",
+    "Total Score": 70.72,
+    "'Socioeconomic Diversity' Rank": 134,
+    "'Cultural Diversity' Rank": 42,
+    "'Economic Diversity' Rank": 125,
+    "'Household Diversity' Rank": 138,
+    "'Religious Diversity' Rank": 90
+  },
+  {
+    "Overall Rank*": 337,
+    "City": "Bismarck, ND",
+    "Total Score": 62.69,
+    "'Socioeconomic Diversity' Rank": 135,
+    "'Cultural Diversity' Rank": 477,
+    "'Economic Diversity' Rank": 164,
+    "'Household Diversity' Rank": 362,
+    "'Religious Diversity' Rank": 19
+  },
+  {
+    "Overall Rank*": 380,
+    "City": "West Fargo, ND",
+    "Total Score": 61.53,
+    "'Socioeconomic Diversity' Rank": 136,
+    "'Cultural Diversity' Rank": 476,
+    "'Economic Diversity' Rank": 286,
+    "'Household Diversity' Rank": 430,
+    "'Religious Diversity' Rank": 62
+  },
+  {
+    "Overall Rank*": 34,
+    "City": "Sacramento, CA",
+    "Total Score": 69.38,
+    "'Socioeconomic Diversity' Rank": 137,
+    "'Cultural Diversity' Rank": 15,
+    "'Economic Diversity' Rank": 19,
+    "'Household Diversity' Rank": 60,
+    "'Religious Diversity' Rank": 397
+  },
+  {
+    "Overall Rank*": 229,
+    "City": "Greenville, SC",
+    "Total Score": 64.64,
+    "'Socioeconomic Diversity' Rank": 138,
+    "'Cultural Diversity' Rank": 251,
+    "'Economic Diversity' Rank": 449,
+    "'Household Diversity' Rank": 389,
+    "'Religious Diversity' Rank": 166
+  },
+  {
+    "Overall Rank*": 374,
+    "City": "Columbia, MO",
+    "Total Score": 61.82,
+    "'Socioeconomic Diversity' Rank": 139,
+    "'Cultural Diversity' Rank": 335,
+    "'Economic Diversity' Rank": 458,
+    "'Household Diversity' Rank": 408,
+    "'Religious Diversity' Rank": 367
+  },
+  {
+    "Overall Rank*": 437,
+    "City": "Portland, ME",
+    "Total Score": 59.79,
+    "'Socioeconomic Diversity' Rank": 139,
+    "'Cultural Diversity' Rank": 333,
+    "'Economic Diversity' Rank": 433,
+    "'Household Diversity' Rank": 392,
+    "'Religious Diversity' Rank": 483
+  },
+  {
+    "Overall Rank*": 403,
+    "City": "Lawrence, KS",
+    "Total Score": 60.88,
+    "'Socioeconomic Diversity' Rank": 141,
+    "'Cultural Diversity' Rank": 322,
+    "'Economic Diversity' Rank": 307,
+    "'Household Diversity' Rank": 429,
+    "'Religious Diversity' Rank": 451
+  },
+  {
+    "Overall Rank*": 111,
+    "City": "Omaha, NE",
+    "Total Score": 66.85,
+    "'Socioeconomic Diversity' Rank": 142,
+    "'Cultural Diversity' Rank": 213,
+    "'Economic Diversity' Rank": 309,
+    "'Household Diversity' Rank": 226,
+    "'Religious Diversity' Rank": 71
+  },
+  {
+    "Overall Rank*": 309,
+    "City": "Murfreesboro, TN",
+    "Total Score": 63.24,
+    "'Socioeconomic Diversity' Rank": 143,
+    "'Cultural Diversity' Rank": 264,
+    "'Economic Diversity' Rank": 163,
+    "'Household Diversity' Rank": 205,
+    "'Religious Diversity' Rank": 426
+  },
+  {
+    "Overall Rank*": 172,
+    "City": "Ellicott City, MD",
+    "Total Score": 65.56,
+    "'Socioeconomic Diversity' Rank": 144,
+    "'Cultural Diversity' Rank": 87,
+    "'Economic Diversity' Rank": 462,
+    "'Household Diversity' Rank": 500,
+    "'Religious Diversity' Rank": 283
+  },
+  {
+    "Overall Rank*": 348,
+    "City": "Toms River, NJ",
+    "Total Score": 62.39,
+    "'Socioeconomic Diversity' Rank": 145,
+    "'Cultural Diversity' Rank": 400,
+    "'Economic Diversity' Rank": 174,
+    "'Household Diversity' Rank": 364,
+    "'Religious Diversity' Rank": 260
+  },
+  {
+    "Overall Rank*": 27,
+    "City": "Brooklyn Park, MN",
+    "Total Score": 69.7,
+    "'Socioeconomic Diversity' Rank": 146,
+    "'Cultural Diversity' Rank": 66,
+    "'Economic Diversity' Rank": 418,
+    "'Household Diversity' Rank": 235,
+    "'Religious Diversity' Rank": 44
+  },
+  {
+    "Overall Rank*": 157,
+    "City": "Kaneohe, HI",
+    "Total Score": 66.04,
+    "'Socioeconomic Diversity' Rank": 147,
+    "'Cultural Diversity' Rank": 161,
+    "'Economic Diversity' Rank": 22,
+    "'Household Diversity' Rank": 335,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 465,
+    "City": "Bozeman, MT",
+    "Total Score": 58.59,
+    "'Socioeconomic Diversity' Rank": 148,
+    "'Cultural Diversity' Rank": 443,
+    "'Economic Diversity' Rank": 201,
+    "'Household Diversity' Rank": 451,
+    "'Religious Diversity' Rank": 446
+  },
+  {
+    "Overall Rank*": 372,
+    "City": "Valley Falls, RI",
+    "Total Score": 61.92,
+    "'Socioeconomic Diversity' Rank": 149,
+    "'Cultural Diversity' Rank": 389,
+    "'Economic Diversity' Rank": 359,
+    "'Household Diversity' Rank": 286,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 246,
+    "City": "Waukesha, WI",
+    "Total Score": 64.42,
+    "'Socioeconomic Diversity' Rank": 150,
+    "'Cultural Diversity' Rank": 360,
+    "'Economic Diversity' Rank": 429,
+    "'Household Diversity' Rank": 340,
+    "'Religious Diversity' Rank": 38
+  },
+  {
+    "Overall Rank*": 92,
+    "City": "Enterprise, NV",
+    "Total Score": 67.26,
+    "'Socioeconomic Diversity' Rank": 151,
+    "'Cultural Diversity' Rank": 12,
+    "'Economic Diversity' Rank": 482,
+    "'Household Diversity' Rank": 215,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 209,
+    "City": "Broken Arrow, OK",
+    "Total Score": 64.97,
+    "'Socioeconomic Diversity' Rank": 152,
+    "'Cultural Diversity' Rank": 302,
+    "'Economic Diversity' Rank": 215,
+    "'Household Diversity' Rank": 450,
+    "'Religious Diversity' Rank": 79
+  },
+  {
+    "Overall Rank*": 319,
+    "City": "Sterling Heights, MI",
+    "Total Score": 63.04,
+    "'Socioeconomic Diversity' Rank": 153,
+    "'Cultural Diversity' Rank": 279,
+    "'Economic Diversity' Rank": 412,
+    "'Household Diversity' Rank": 372,
+    "'Religious Diversity' Rank": 362
+  },
+  {
+    "Overall Rank*": 435,
+    "City": "Helena, MT",
+    "Total Score": 59.8,
+    "'Socioeconomic Diversity' Rank": 154,
+    "'Cultural Diversity' Rank": 472,
+    "'Economic Diversity' Rank": 127,
+    "'Household Diversity' Rank": 342,
+    "'Religious Diversity' Rank": 358
+  },
+  {
+    "Overall Rank*": 221,
+    "City": "Glasgow, DE",
+    "Total Score": 64.74,
+    "'Socioeconomic Diversity' Rank": 155,
+    "'Cultural Diversity' Rank": 212,
+    "'Economic Diversity' Rank": 455,
+    "'Household Diversity' Rank": 394,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 63,
+    "City": "Phoenix, AZ",
+    "Total Score": 68.24,
+    "'Socioeconomic Diversity' Rank": 156,
+    "'Cultural Diversity' Rank": 57,
+    "'Economic Diversity' Rank": 139,
+    "'Household Diversity' Rank": 49,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 240,
+    "City": "Peoria, AZ",
+    "Total Score": 64.49,
+    "'Socioeconomic Diversity' Rank": 157,
+    "'Cultural Diversity' Rank": 207,
+    "'Economic Diversity' Rank": 216,
+    "'Household Diversity' Rank": 334,
+    "'Religious Diversity' Rank": 366
+  },
+  {
+    "Overall Rank*": 231,
+    "City": "Henderson, NV",
+    "Total Score": 64.61,
+    "'Socioeconomic Diversity' Rank": 158,
+    "'Cultural Diversity' Rank": 163,
+    "'Economic Diversity' Rank": 222,
+    "'Household Diversity' Rank": 292,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 101,
+    "City": "Mount Vernon, NY",
+    "Total Score": 67.09,
+    "'Socioeconomic Diversity' Rank": 159,
+    "'Cultural Diversity' Rank": 153,
+    "'Economic Diversity' Rank": 435,
+    "'Household Diversity' Rank": 16,
+    "'Religious Diversity' Rank": 180
+  },
+  {
+    "Overall Rank*": 314,
+    "City": "Boise, ID",
+    "Total Score": 63.15,
+    "'Socioeconomic Diversity' Rank": 160,
+    "'Cultural Diversity' Rank": 368,
+    "'Economic Diversity' Rank": 170,
+    "'Household Diversity' Rank": 296,
+    "'Religious Diversity' Rank": 267
+  },
+  {
+    "Overall Rank*": 46,
+    "City": "Bakersfield, CA",
+    "Total Score": 68.7,
+    "'Socioeconomic Diversity' Rank": 161,
+    "'Cultural Diversity' Rank": 79,
+    "'Economic Diversity' Rank": 24,
+    "'Household Diversity' Rank": 180,
+    "'Religious Diversity' Rank": 266
+  },
+  {
+    "Overall Rank*": 475,
+    "City": "Saco, ME",
+    "Total Score": 57.81,
+    "'Socioeconomic Diversity' Rank": 162,
+    "'Cultural Diversity' Rank": 455,
+    "'Economic Diversity' Rank": 351,
+    "'Household Diversity' Rank": 262,
+    "'Religious Diversity' Rank": 469
+  },
+  {
+    "Overall Rank*": 396,
+    "City": "Manhattan, KS",
+    "Total Score": 61.06,
+    "'Socioeconomic Diversity' Rank": 163,
+    "'Cultural Diversity' Rank": 324,
+    "'Economic Diversity' Rank": 362,
+    "'Household Diversity' Rank": 474,
+    "'Religious Diversity' Rank": 427
+  },
+  {
+    "Overall Rank*": 289,
+    "City": "Sioux Falls, SD",
+    "Total Score": 63.78,
+    "'Socioeconomic Diversity' Rank": 164,
+    "'Cultural Diversity' Rank": 388,
+    "'Economic Diversity' Rank": 404,
+    "'Household Diversity' Rank": 319,
+    "'Religious Diversity' Rank": 61
+  },
+  {
+    "Overall Rank*": 288,
+    "City": "East Providence, RI",
+    "Total Score": 63.78,
+    "'Socioeconomic Diversity' Rank": 165,
+    "'Cultural Diversity' Rank": 286,
+    "'Economic Diversity' Rank": 345,
+    "'Household Diversity' Rank": 129,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 137,
+    "City": "Lafayette, LA",
+    "Total Score": 66.34,
+    "'Socioeconomic Diversity' Rank": 166,
+    "'Cultural Diversity' Rank": 277,
+    "'Economic Diversity' Rank": 142,
+    "'Household Diversity' Rank": 189,
+    "'Religious Diversity' Rank": 55
+  },
+  {
+    "Overall Rank*": 255,
+    "City": "Pierre, SD",
+    "Total Score": 64.2,
+    "'Socioeconomic Diversity' Rank": 167,
+    "'Cultural Diversity' Rank": 426,
+    "'Economic Diversity' Rank": 32,
+    "'Household Diversity' Rank": 453,
+    "'Religious Diversity' Rank": 8
+  },
+  {
+    "Overall Rank*": 100,
+    "City": "Aurora, CO",
+    "Total Score": 67.11,
+    "'Socioeconomic Diversity' Rank": 168,
+    "'Cultural Diversity' Rank": 38,
+    "'Economic Diversity' Rank": 118,
+    "'Household Diversity' Rank": 112,
+    "'Religious Diversity' Rank": 449
+  },
+  {
+    "Overall Rank*": 108,
+    "City": "Little Rock, AR",
+    "Total Score": 66.93,
+    "'Socioeconomic Diversity' Rank": 169,
+    "'Cultural Diversity' Rank": 210,
+    "'Economic Diversity' Rank": 207,
+    "'Household Diversity' Rank": 220,
+    "'Religious Diversity' Rank": 74
+  },
+  {
+    "Overall Rank*": 215,
+    "City": "Summerville, SC",
+    "Total Score": 64.85,
+    "'Socioeconomic Diversity' Rank": 170,
+    "'Cultural Diversity' Rank": 300,
+    "'Economic Diversity' Rank": 100,
+    "'Household Diversity' Rank": 315,
+    "'Religious Diversity' Rank": 185
+  },
+  {
+    "Overall Rank*": 381,
+    "City": "Iowa City, IA",
+    "Total Score": 61.49,
+    "'Socioeconomic Diversity' Rank": 171,
+    "'Cultural Diversity' Rank": 249,
+    "'Economic Diversity' Rank": 488,
+    "'Household Diversity' Rank": 456,
+    "'Religious Diversity' Rank": 416
+  },
+  {
+    "Overall Rank*": 39,
+    "City": "Kent, WA",
+    "Total Score": 69.14,
+    "'Socioeconomic Diversity' Rank": 172,
+    "'Cultural Diversity' Rank": 10,
+    "'Economic Diversity' Rank": 95,
+    "'Household Diversity' Rank": 162,
+    "'Religious Diversity' Rank": 374
+  },
+  {
+    "Overall Rank*": 378,
+    "City": "Brookings, SD",
+    "Total Score": 61.56,
+    "'Socioeconomic Diversity' Rank": 173,
+    "'Cultural Diversity' Rank": 448,
+    "'Economic Diversity' Rank": 211,
+    "'Household Diversity' Rank": 476,
+    "'Religious Diversity' Rank": 95
+  },
+  {
+    "Overall Rank*": 156,
+    "City": "Columbia, SC",
+    "Total Score": 66.07,
+    "'Socioeconomic Diversity' Rank": 174,
+    "'Cultural Diversity' Rank": 200,
+    "'Economic Diversity' Rank": 154,
+    "'Household Diversity' Rank": 420,
+    "'Religious Diversity' Rank": 146
+  },
+  {
+    "Overall Rank*": 138,
+    "City": "Pearl City, HI",
+    "Total Score": 66.34,
+    "'Socioeconomic Diversity' Rank": 175,
+    "'Cultural Diversity' Rank": 136,
+    "'Economic Diversity' Rank": 2,
+    "'Household Diversity' Rank": 426,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 275,
+    "City": "Dearborn, MI",
+    "Total Score": 63.96,
+    "'Socioeconomic Diversity' Rank": 176,
+    "'Cultural Diversity' Rank": 293,
+    "'Economic Diversity' Rank": 374,
+    "'Household Diversity' Rank": 325,
+    "'Religious Diversity' Rank": 247
+  },
+  {
+    "Overall Rank*": 432,
+    "City": "Westerly, RI",
+    "Total Score": 60.03,
+    "'Socioeconomic Diversity' Rank": 177,
+    "'Cultural Diversity' Rank": 438,
+    "'Economic Diversity' Rank": 396,
+    "'Household Diversity' Rank": 289,
+    "'Religious Diversity' Rank": 361
+  },
+  {
+    "Overall Rank*": 440,
+    "City": "Corvallis, OR",
+    "Total Score": 59.63,
+    "'Socioeconomic Diversity' Rank": 178,
+    "'Cultural Diversity' Rank": 262,
+    "'Economic Diversity' Rank": 454,
+    "'Household Diversity' Rank": 436,
+    "'Religious Diversity' Rank": 492
+  },
+  {
+    "Overall Rank*": 48,
+    "City": "Oklahoma City, OK",
+    "Total Score": 68.65,
+    "'Socioeconomic Diversity' Rank": 179,
+    "'Cultural Diversity' Rank": 117,
+    "'Economic Diversity' Rank": 55,
+    "'Household Diversity' Rank": 175,
+    "'Religious Diversity' Rank": 112
+  },
+  {
+    "Overall Rank*": 476,
+    "City": "Middlebury, VT",
+    "Total Score": 57.77,
+    "'Socioeconomic Diversity' Rank": 180,
+    "'Cultural Diversity' Rank": 370,
+    "'Economic Diversity' Rank": 492,
+    "'Household Diversity' Rank": 469,
+    "'Religious Diversity' Rank": 480
+  },
+  {
+    "Overall Rank*": 497,
+    "City": "Keene, NH",
+    "Total Score": 55.89,
+    "'Socioeconomic Diversity' Rank": 181,
+    "'Cultural Diversity' Rank": 469,
+    "'Economic Diversity' Rank": 360,
+    "'Household Diversity' Rank": 314,
+    "'Religious Diversity' Rank": 497
+  },
+  {
+    "Overall Rank*": 114,
+    "City": "Rio Rancho, NM",
+    "Total Score": 66.78,
+    "'Socioeconomic Diversity' Rank": 182,
+    "'Cultural Diversity' Rank": 140,
+    "'Economic Diversity' Rank": 93,
+    "'Household Diversity' Rank": 312,
+    "'Religious Diversity' Rank": 271
+  },
+  {
+    "Overall Rank*": 226,
+    "City": "Springfield, IL",
+    "Total Score": 64.65,
+    "'Socioeconomic Diversity' Rank": 183,
+    "'Cultural Diversity' Rank": 381,
+    "'Economic Diversity' Rank": 152,
+    "'Household Diversity' Rank": 229,
+    "'Religious Diversity' Rank": 41
+  },
+  {
+    "Overall Rank*": 301,
+    "City": "Lincoln, NE",
+    "Total Score": 63.45,
+    "'Socioeconomic Diversity' Rank": 184,
+    "'Cultural Diversity' Rank": 375,
+    "'Economic Diversity' Rank": 131,
+    "'Household Diversity' Rank": 327,
+    "'Religious Diversity' Rank": 191
+  },
+  {
+    "Overall Rank*": 81,
+    "City": "Tampa, FL",
+    "Total Score": 67.59,
+    "'Socioeconomic Diversity' Rank": 185,
+    "'Cultural Diversity' Rank": 61,
+    "'Economic Diversity' Rank": 303,
+    "'Household Diversity' Rank": 168,
+    "'Religious Diversity' Rank": 336
+  },
+  {
+    "Overall Rank*": 402,
+    "City": "Meridian, ID",
+    "Total Score": 60.96,
+    "'Socioeconomic Diversity' Rank": 186,
+    "'Cultural Diversity' Rank": 430,
+    "'Economic Diversity' Rank": 148,
+    "'Household Diversity' Rank": 472,
+    "'Religious Diversity' Rank": 267
+  },
+  {
+    "Overall Rank*": 274,
+    "City": "Bristol, CT",
+    "Total Score": 63.97,
+    "'Socioeconomic Diversity' Rank": 187,
+    "'Cultural Diversity' Rank": 336,
+    "'Economic Diversity' Rank": 197,
+    "'Household Diversity' Rank": 170,
+    "'Religious Diversity' Rank": 218
+  },
+  {
+    "Overall Rank*": 140,
+    "City": "Joliet, IL",
+    "Total Score": 66.32,
+    "'Socioeconomic Diversity' Rank": 188,
+    "'Cultural Diversity' Rank": 131,
+    "'Economic Diversity' Rank": 165,
+    "'Household Diversity' Rank": 211,
+    "'Religious Diversity' Rank": 332
+  },
+  {
+    "Overall Rank*": 439,
+    "City": "Georgetown, KY",
+    "Total Score": 59.65,
+    "'Socioeconomic Diversity' Rank": 189,
+    "'Cultural Diversity' Rank": 437,
+    "'Economic Diversity' Rank": 294,
+    "'Household Diversity' Rank": 363,
+    "'Religious Diversity' Rank": 399
+  },
+  {
+    "Overall Rank*": 244,
+    "City": "Reno, NV",
+    "Total Score": 64.43,
+    "'Socioeconomic Diversity' Rank": 190,
+    "'Cultural Diversity' Rank": 112,
+    "'Economic Diversity' Rank": 123,
+    "'Household Diversity' Rank": 139,
+    "'Religious Diversity' Rank": 467
+  },
+  {
+    "Overall Rank*": 300,
+    "City": "Manchester, NH",
+    "Total Score": 63.51,
+    "'Socioeconomic Diversity' Rank": 191,
+    "'Cultural Diversity' Rank": 283,
+    "'Economic Diversity' Rank": 232,
+    "'Household Diversity' Rank": 82,
+    "'Religious Diversity' Rank": 368
+  },
+  {
+    "Overall Rank*": 417,
+    "City": "Charleston, WV",
+    "Total Score": 60.59,
+    "'Socioeconomic Diversity' Rank": 192,
+    "'Cultural Diversity' Rank": 413,
+    "'Economic Diversity' Rank": 231,
+    "'Household Diversity' Rank": 225,
+    "'Religious Diversity' Rank": 400
+  },
+  {
+    "Overall Rank*": 49,
+    "City": "Hobbs, NM",
+    "Total Score": 68.59,
+    "'Socioeconomic Diversity' Rank": 193,
+    "'Cultural Diversity' Rank": 95,
+    "'Economic Diversity' Rank": 41,
+    "'Household Diversity' Rank": 231,
+    "'Religious Diversity' Rank": 173
+  },
+  {
+    "Overall Rank*": 75,
+    "City": "Albuquerque, NM",
+    "Total Score": 67.96,
+    "'Socioeconomic Diversity' Rank": 194,
+    "'Cultural Diversity' Rank": 93,
+    "'Economic Diversity' Rank": 151,
+    "'Household Diversity' Rank": 142,
+    "'Religious Diversity' Rank": 239
+  },
+  {
+    "Overall Rank*": 203,
+    "City": "Columbus, OH",
+    "Total Score": 65.02,
+    "'Socioeconomic Diversity' Rank": 195,
+    "'Cultural Diversity' Rank": 186,
+    "'Economic Diversity' Rank": 249,
+    "'Household Diversity' Rank": 207,
+    "'Religious Diversity' Rank": 330
+  },
+  {
+    "Overall Rank*": 318,
+    "City": "Appleton, WI",
+    "Total Score": 63.06,
+    "'Socioeconomic Diversity' Rank": 196,
+    "'Cultural Diversity' Rank": 405,
+    "'Economic Diversity' Rank": 420,
+    "'Household Diversity' Rank": 311,
+    "'Religious Diversity' Rank": 58
+  },
+  {
+    "Overall Rank*": 317,
+    "City": "Fargo, ND",
+    "Total Score": 63.12,
+    "'Socioeconomic Diversity' Rank": 197,
+    "'Cultural Diversity' Rank": 402,
+    "'Economic Diversity' Rank": 301,
+    "'Household Diversity' Rank": 400,
+    "'Religious Diversity' Rank": 62
+  },
+  {
+    "Overall Rank*": 163,
+    "City": "Mililani Town, HI",
+    "Total Score": 65.85,
+    "'Socioeconomic Diversity' Rank": 197,
+    "'Cultural Diversity' Rank": 133,
+    "'Economic Diversity' Rank": 10,
+    "'Household Diversity' Rank": 460,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 470,
+    "City": "Layton, UT",
+    "Total Score": 58.26,
+    "'Socioeconomic Diversity' Rank": 199,
+    "'Cultural Diversity' Rank": 354,
+    "'Economic Diversity' Rank": 63,
+    "'Household Diversity' Rank": 489,
+    "'Religious Diversity' Rank": 496
+  },
+  {
+    "Overall Rank*": 54,
+    "City": "Springdale, AR",
+    "Total Score": 68.43,
+    "'Socioeconomic Diversity' Rank": 200,
+    "'Cultural Diversity' Rank": 59,
+    "'Economic Diversity' Rank": 361,
+    "'Household Diversity' Rank": 300,
+    "'Religious Diversity' Rank": 187
+  },
+  {
+    "Overall Rank*": 344,
+    "City": "Kearney, NE",
+    "Total Score": 62.51,
+    "'Socioeconomic Diversity' Rank": 201,
+    "'Cultural Diversity' Rank": 453,
+    "'Economic Diversity' Rank": 335,
+    "'Household Diversity' Rank": 330,
+    "'Religious Diversity' Rank": 26
+  },
+  {
+    "Overall Rank*": 53,
+    "City": "Federal Way, WA",
+    "Total Score": 68.43,
+    "'Socioeconomic Diversity' Rank": 202,
+    "'Cultural Diversity' Rank": 28,
+    "'Economic Diversity' Rank": 87,
+    "'Household Diversity' Rank": 156,
+    "'Religious Diversity' Rank": 374
+  },
+  {
+    "Overall Rank*": 52,
+    "City": "Richmond, VA",
+    "Total Score": 68.48,
+    "'Socioeconomic Diversity' Rank": 203,
+    "'Cultural Diversity' Rank": 206,
+    "'Economic Diversity' Rank": 279,
+    "'Household Diversity' Rank": 399,
+    "'Religious Diversity' Rank": 1
+  },
+  {
+    "Overall Rank*": 260,
+    "City": "Olive Branch, MS",
+    "Total Score": 64.16,
+    "'Socioeconomic Diversity' Rank": 204,
+    "'Cultural Diversity' Rank": 298,
+    "'Economic Diversity' Rank": 128,
+    "'Household Diversity' Rank": 336,
+    "'Religious Diversity' Rank": 244
+  },
+  {
+    "Overall Rank*": 57,
+    "City": "San Antonio, TX",
+    "Total Score": 68.41,
+    "'Socioeconomic Diversity' Rank": 205,
+    "'Cultural Diversity' Rank": 126,
+    "'Economic Diversity' Rank": 132,
+    "'Household Diversity' Rank": 36,
+    "'Religious Diversity' Rank": 102
+  },
+  {
+    "Overall Rank*": 194,
+    "City": "Glen Burnie, MD",
+    "Total Score": 65.16,
+    "'Socioeconomic Diversity' Rank": 206,
+    "'Cultural Diversity' Rank": 193,
+    "'Economic Diversity' Rank": 76,
+    "'Household Diversity' Rank": 18,
+    "'Religious Diversity' Rank": 385
+  },
+  {
+    "Overall Rank*": 259,
+    "City": "Rock Springs, WY",
+    "Total Score": 64.17,
+    "'Socioeconomic Diversity' Rank": 207,
+    "'Cultural Diversity' Rank": 334,
+    "'Economic Diversity' Rank": 64,
+    "'Household Diversity' Rank": 383,
+    "'Religious Diversity' Rank": 167
+  },
+  {
+    "Overall Rank*": 123,
+    "City": "Kansas City, MO",
+    "Total Score": 66.61,
+    "'Socioeconomic Diversity' Rank": 208,
+    "'Cultural Diversity' Rank": 181,
+    "'Economic Diversity' Rank": 209,
+    "'Household Diversity' Rank": 201,
+    "'Religious Diversity' Rank": 140
+  },
+  {
+    "Overall Rank*": 352,
+    "City": "Ames, IA",
+    "Total Score": 62.34,
+    "'Socioeconomic Diversity' Rank": 209,
+    "'Cultural Diversity' Rank": 347,
+    "'Economic Diversity' Rank": 442,
+    "'Household Diversity' Rank": 491,
+    "'Religious Diversity' Rank": 157
+  },
+  {
+    "Overall Rank*": 217,
+    "City": "Waldorf, MD",
+    "Total Score": 64.8,
+    "'Socioeconomic Diversity' Rank": 210,
+    "'Cultural Diversity' Rank": 183,
+    "'Economic Diversity' Rank": 40,
+    "'Household Diversity' Rank": 156,
+    "'Religious Diversity' Rank": 409
+  },
+  {
+    "Overall Rank*": 426,
+    "City": "Mandan, ND",
+    "Total Score": 60.31,
+    "'Socioeconomic Diversity' Rank": 211,
+    "'Cultural Diversity' Rank": 484,
+    "'Economic Diversity' Rank": 78,
+    "'Household Diversity' Rank": 415,
+    "'Religious Diversity' Rank": 210
+  },
+  {
+    "Overall Rank*": 37,
+    "City": "Waukegan, IL",
+    "Total Score": 69.24,
+    "'Socioeconomic Diversity' Rank": 212,
+    "'Cultural Diversity' Rank": 65,
+    "'Economic Diversity' Rank": 338,
+    "'Household Diversity' Rank": 63,
+    "'Religious Diversity' Rank": 114
+  },
+  {
+    "Overall Rank*": 152,
+    "City": "Peoria, IL",
+    "Total Score": 66.17,
+    "'Socioeconomic Diversity' Rank": 213,
+    "'Cultural Diversity' Rank": 221,
+    "'Economic Diversity' Rank": 469,
+    "'Household Diversity' Rank": 248,
+    "'Religious Diversity' Rank": 28
+  },
+  {
+    "Overall Rank*": 258,
+    "City": "St. Petersburg, FL",
+    "Total Score": 64.18,
+    "'Socioeconomic Diversity' Rank": 214,
+    "'Cultural Diversity' Rank": 187,
+    "'Economic Diversity' Rank": 299,
+    "'Household Diversity' Rank": 193,
+    "'Religious Diversity' Rank": 405
+  },
+  {
+    "Overall Rank*": 361,
+    "City": "Dickinson, ND",
+    "Total Score": 62.2,
+    "'Socioeconomic Diversity' Rank": 215,
+    "'Cultural Diversity' Rank": 418,
+    "'Economic Diversity' Rank": 54,
+    "'Household Diversity' Rank": 406,
+    "'Religious Diversity' Rank": 199
+  },
+  {
+    "Overall Rank*": 169,
+    "City": "Tacoma, WA",
+    "Total Score": 65.6,
+    "'Socioeconomic Diversity' Rank": 216,
+    "'Cultural Diversity' Rank": 126,
+    "'Economic Diversity' Rank": 83,
+    "'Household Diversity' Rank": 124,
+    "'Religious Diversity' Rank": 415
+  },
+  {
+    "Overall Rank*": 332,
+    "City": "Auburn, AL",
+    "Total Score": 62.79,
+    "'Socioeconomic Diversity' Rank": 217,
+    "'Cultural Diversity' Rank": 240,
+    "'Economic Diversity' Rank": 441,
+    "'Household Diversity' Rank": 447,
+    "'Religious Diversity' Rank": 339
+  },
+  {
+    "Overall Rank*": 155,
+    "City": "Tallahassee, FL",
+    "Total Score": 66.11,
+    "'Socioeconomic Diversity' Rank": 218,
+    "'Cultural Diversity' Rank": 171,
+    "'Economic Diversity' Rank": 195,
+    "'Household Diversity' Rank": 413,
+    "'Religious Diversity' Rank": 179
+  },
+  {
+    "Overall Rank*": 383,
+    "City": "Winooski, VT",
+    "Total Score": 61.35,
+    "'Socioeconomic Diversity' Rank": 219,
+    "'Cultural Diversity' Rank": 328,
+    "'Economic Diversity' Rank": 380,
+    "'Household Diversity' Rank": 438,
+    "'Religious Diversity' Rank": 401
+  },
+  {
+    "Overall Rank*": 305,
+    "City": "Surprise, AZ",
+    "Total Score": 63.34,
+    "'Socioeconomic Diversity' Rank": 220,
+    "'Cultural Diversity' Rank": 215,
+    "'Economic Diversity' Rank": 260,
+    "'Household Diversity' Rank": 478,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 313,
+    "City": "Cheyenne, WY",
+    "Total Score": 63.22,
+    "'Socioeconomic Diversity' Rank": 221,
+    "'Cultural Diversity' Rank": 352,
+    "'Economic Diversity' Rank": 14,
+    "'Household Diversity' Rank": 263,
+    "'Religious Diversity' Rank": 326
+  },
+  {
+    "Overall Rank*": 363,
+    "City": "Cedar Rapids, IA",
+    "Total Score": 62.13,
+    "'Socioeconomic Diversity' Rank": 222,
+    "'Cultural Diversity' Rank": 434,
+    "'Economic Diversity' Rank": 383,
+    "'Household Diversity' Rank": 310,
+    "'Religious Diversity' Rank": 82
+  },
+  {
+    "Overall Rank*": 117,
+    "City": "Greensboro, NC",
+    "Total Score": 66.76,
+    "'Socioeconomic Diversity' Rank": 223,
+    "'Cultural Diversity' Rank": 155,
+    "'Economic Diversity' Rank": 230,
+    "'Household Diversity' Rank": 169,
+    "'Religious Diversity' Rank": 184
+  },
+  {
+    "Overall Rank*": 254,
+    "City": "Bellevue, NE",
+    "Total Score": 64.21,
+    "'Socioeconomic Diversity' Rank": 224,
+    "'Cultural Diversity' Rank": 244,
+    "'Economic Diversity' Rank": 96,
+    "'Household Diversity' Rank": 264,
+    "'Religious Diversity' Rank": 324
+  },
+  {
+    "Overall Rank*": 74,
+    "City": "Kenner, LA",
+    "Total Score": 68.01,
+    "'Socioeconomic Diversity' Rank": 225,
+    "'Cultural Diversity' Rank": 103,
+    "'Economic Diversity' Rank": 107,
+    "'Household Diversity' Rank": 133,
+    "'Religious Diversity' Rank": 192
+  },
+  {
+    "Overall Rank*": 255,
+    "City": "Sparks, NV",
+    "Total Score": 64.2,
+    "'Socioeconomic Diversity' Rank": 226,
+    "'Cultural Diversity' Rank": 109,
+    "'Economic Diversity' Rank": 137,
+    "'Household Diversity' Rank": 196,
+    "'Religious Diversity' Rank": 467
+  },
+  {
+    "Overall Rank*": 321,
+    "City": "Minot, ND",
+    "Total Score": 62.95,
+    "'Socioeconomic Diversity' Rank": 227,
+    "'Cultural Diversity' Rank": 423,
+    "'Economic Diversity' Rank": 53,
+    "'Household Diversity' Rank": 397,
+    "'Religious Diversity' Rank": 85
+  },
+  {
+    "Overall Rank*": 420,
+    "City": "Billings, MT",
+    "Total Score": 60.55,
+    "'Socioeconomic Diversity' Rank": 228,
+    "'Cultural Diversity' Rank": 436,
+    "'Economic Diversity' Rank": 130,
+    "'Household Diversity' Rank": 273,
+    "'Religious Diversity' Rank": 338
+  },
+  {
+    "Overall Rank*": 62,
+    "City": "Corpus Christi, TX",
+    "Total Score": 68.25,
+    "'Socioeconomic Diversity' Rank": 229,
+    "'Cultural Diversity' Rank": 159,
+    "'Economic Diversity' Rank": 42,
+    "'Household Diversity' Rank": 44,
+    "'Religious Diversity' Rank": 67
+  },
+  {
+    "Overall Rank*": 99,
+    "City": "Las Vegas, NV",
+    "Total Score": 67.14,
+    "'Socioeconomic Diversity' Rank": 230,
+    "'Cultural Diversity' Rank": 35,
+    "'Economic Diversity' Rank": 368,
+    "'Household Diversity' Rank": 35,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 199,
+    "City": "Baltimore, MD",
+    "Total Score": 65.08,
+    "'Socioeconomic Diversity' Rank": 231,
+    "'Cultural Diversity' Rank": 265,
+    "'Economic Diversity' Rank": 310,
+    "'Household Diversity' Rank": 267,
+    "'Religious Diversity' Rank": 123
+  },
+  {
+    "Overall Rank*": 154,
+    "City": "Goose Creek, SC",
+    "Total Score": 66.14,
+    "'Socioeconomic Diversity' Rank": 231,
+    "'Cultural Diversity' Rank": 224,
+    "'Economic Diversity' Rank": 17,
+    "'Household Diversity' Rank": 337,
+    "'Religious Diversity' Rank": 148
+  },
+  {
+    "Overall Rank*": 477,
+    "City": "Missoula, MT",
+    "Total Score": 57.77,
+    "'Socioeconomic Diversity' Rank": 233,
+    "'Cultural Diversity' Rank": 444,
+    "'Economic Diversity' Rank": 167,
+    "'Household Diversity' Rank": 346,
+    "'Religious Diversity' Rank": 475
+  },
+  {
+    "Overall Rank*": 264,
+    "City": "Wilmington, NC",
+    "Total Score": 64.12,
+    "'Socioeconomic Diversity' Rank": 234,
+    "'Cultural Diversity' Rank": 303,
+    "'Economic Diversity' Rank": 267,
+    "'Household Diversity' Rank": 285,
+    "'Religious Diversity' Rank": 194
+  },
+  {
+    "Overall Rank*": 86,
+    "City": "Worcester, MA",
+    "Total Score": 67.44,
+    "'Socioeconomic Diversity' Rank": 235,
+    "'Cultural Diversity' Rank": 77,
+    "'Economic Diversity' Rank": 377,
+    "'Household Diversity' Rank": 122,
+    "'Religious Diversity' Rank": 286
+  },
+  {
+    "Overall Rank*": 198,
+    "City": "Salem, OR",
+    "Total Score": 65.08,
+    "'Socioeconomic Diversity' Rank": 236,
+    "'Cultural Diversity' Rank": 192,
+    "'Economic Diversity' Rank": 29,
+    "'Household Diversity' Rank": 137,
+    "'Religious Diversity' Rank": 372
+  },
+  {
+    "Overall Rank*": 248,
+    "City": "Southaven, MS",
+    "Total Score": 64.29,
+    "'Socioeconomic Diversity' Rank": 236,
+    "'Cultural Diversity' Rank": 289,
+    "'Economic Diversity' Rank": 183,
+    "'Household Diversity' Rank": 186,
+    "'Religious Diversity' Rank": 244
+  },
+  {
+    "Overall Rank*": 347,
+    "City": "West Jordan, UT",
+    "Total Score": 62.41,
+    "'Socioeconomic Diversity' Rank": 238,
+    "'Cultural Diversity' Rank": 291,
+    "'Economic Diversity' Rank": 134,
+    "'Household Diversity' Rank": 439,
+    "'Religious Diversity' Rank": 390
+  },
+  {
+    "Overall Rank*": 450,
+    "City": "Eugene, OR",
+    "Total Score": 59.29,
+    "'Socioeconomic Diversity' Rank": 239,
+    "'Cultural Diversity' Rank": 329,
+    "'Economic Diversity' Rank": 227,
+    "'Household Diversity' Rank": 232,
+    "'Religious Diversity' Rank": 494
+  },
+  {
+    "Overall Rank*": 353,
+    "City": "Vancouver, WA",
+    "Total Score": 62.33,
+    "'Socioeconomic Diversity' Rank": 240,
+    "'Cultural Diversity' Rank": 201,
+    "'Economic Diversity' Rank": 104,
+    "'Household Diversity' Rank": 147,
+    "'Religious Diversity' Rank": 486
+  },
+  {
+    "Overall Rank*": 42,
+    "City": "Lynn, MA",
+    "Total Score": 68.96,
+    "'Socioeconomic Diversity' Rank": 241,
+    "'Cultural Diversity' Rank": 22,
+    "'Economic Diversity' Rank": 229,
+    "'Household Diversity' Rank": 9,
+    "'Religious Diversity' Rank": 307
+  },
+  {
+    "Overall Rank*": 298,
+    "City": "Fayetteville, AR",
+    "Total Score": 63.54,
+    "'Socioeconomic Diversity' Rank": 242,
+    "'Cultural Diversity' Rank": 338,
+    "'Economic Diversity' Rank": 388,
+    "'Household Diversity' Rank": 427,
+    "'Religious Diversity' Rank": 117
+  },
+  {
+    "Overall Rank*": 98,
+    "City": "Montgomery, AL",
+    "Total Score": 67.15,
+    "'Socioeconomic Diversity' Rank": 243,
+    "'Cultural Diversity' Rank": 305,
+    "'Economic Diversity' Rank": 39,
+    "'Household Diversity' Rank": 37,
+    "'Religious Diversity' Rank": 5
+  },
+  {
+    "Overall Rank*": 261,
+    "City": "Fairbanks, AK",
+    "Total Score": 64.13,
+    "'Socioeconomic Diversity' Rank": 244,
+    "'Cultural Diversity' Rank": 115,
+    "'Economic Diversity' Rank": 36,
+    "'Household Diversity' Rank": 216,
+    "'Religious Diversity' Rank": 477
+  },
+  {
+    "Overall Rank*": 179,
+    "City": "Mesa, AZ",
+    "Total Score": 65.43,
+    "'Socioeconomic Diversity' Rank": 245,
+    "'Cultural Diversity' Rank": 154,
+    "'Economic Diversity' Rank": 156,
+    "'Household Diversity' Rank": 222,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 78,
+    "City": "North Las Vegas, NV",
+    "Total Score": 67.83,
+    "'Socioeconomic Diversity' Rank": 246,
+    "'Cultural Diversity' Rank": 14,
+    "'Economic Diversity' Rank": 208,
+    "'Household Diversity' Rank": 84,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 364,
+    "City": "Conway, AR",
+    "Total Score": 62.12,
+    "'Socioeconomic Diversity' Rank": 247,
+    "'Cultural Diversity' Rank": 364,
+    "'Economic Diversity' Rank": 243,
+    "'Household Diversity' Rank": 274,
+    "'Religious Diversity' Rank": 323
+  },
+  {
+    "Overall Rank*": 362,
+    "City": "Florence, KY",
+    "Total Score": 62.14,
+    "'Socioeconomic Diversity' Rank": 248,
+    "'Cultural Diversity' Rank": 412,
+    "'Economic Diversity' Rank": 220,
+    "'Household Diversity' Rank": 98,
+    "'Religious Diversity' Rank": 223
+  },
+  {
+    "Overall Rank*": 130,
+    "City": "Wichita, KS",
+    "Total Score": 66.51,
+    "'Socioeconomic Diversity' Rank": 248,
+    "'Cultural Diversity' Rank": 185,
+    "'Economic Diversity' Rank": 252,
+    "'Household Diversity' Rank": 255,
+    "'Religious Diversity' Rank": 104
+  },
+  {
+    "Overall Rank*": 150,
+    "City": "Waipahu, HI",
+    "Total Score": 66.18,
+    "'Socioeconomic Diversity' Rank": 250,
+    "'Cultural Diversity' Rank": 124,
+    "'Economic Diversity' Rank": 166,
+    "'Household Diversity' Rank": 38,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 271,
+    "City": "Pittsburgh, PA",
+    "Total Score": 63.99,
+    "'Socioeconomic Diversity' Rank": 251,
+    "'Cultural Diversity' Rank": 267,
+    "'Economic Diversity' Rank": 484,
+    "'Household Diversity' Rank": 431,
+    "'Religious Diversity' Rank": 100
+  },
+  {
+    "Overall Rank*": 79,
+    "City": "Ewa Gentry, HI",
+    "Total Score": 67.68,
+    "'Socioeconomic Diversity' Rank": 252,
+    "'Cultural Diversity' Rank": 49,
+    "'Economic Diversity' Rank": 25,
+    "'Household Diversity' Rank": 398,
+    "'Religious Diversity' Rank": 349
+  },
+  {
+    "Overall Rank*": 359,
+    "City": "Grand Forks, ND",
+    "Total Score": 62.27,
+    "'Socioeconomic Diversity' Rank": 253,
+    "'Cultural Diversity' Rank": 417,
+    "'Economic Diversity' Rank": 251,
+    "'Household Diversity' Rank": 388,
+    "'Religious Diversity' Rank": 113
+  },
+  {
+    "Overall Rank*": 253,
+    "City": "Dover, DE",
+    "Total Score": 64.24,
+    "'Socioeconomic Diversity' Rank": 254,
+    "'Cultural Diversity' Rank": 143,
+    "'Economic Diversity' Rank": 188,
+    "'Household Diversity' Rank": 174,
+    "'Religious Diversity' Rank": 444
+  },
+  {
+    "Overall Rank*": 395,
+    "City": "Johnson City, TN",
+    "Total Score": 61.07,
+    "'Socioeconomic Diversity' Rank": 255,
+    "'Cultural Diversity' Rank": 410,
+    "'Economic Diversity' Rank": 431,
+    "'Household Diversity' Rank": 233,
+    "'Religious Diversity' Rank": 285
+  },
+  {
+    "Overall Rank*": 500,
+    "City": "Provo, UT",
+    "Total Score": 54.12,
+    "'Socioeconomic Diversity' Rank": 255,
+    "'Cultural Diversity' Rank": 242,
+    "'Economic Diversity' Rank": 491,
+    "'Household Diversity' Rank": 470,
+    "'Religious Diversity' Rank": 500
+  },
+  {
+    "Overall Rank*": 141,
+    "City": "Grand Rapids, MI",
+    "Total Score": 66.27,
+    "'Socioeconomic Diversity' Rank": 257,
+    "'Cultural Diversity' Rank": 199,
+    "'Economic Diversity' Rank": 422,
+    "'Household Diversity' Rank": 177,
+    "'Religious Diversity' Rank": 70
+  },
+  {
+    "Overall Rank*": 183,
+    "City": "Louisville, KY",
+    "Total Score": 65.35,
+    "'Socioeconomic Diversity' Rank": 258,
+    "'Cultural Diversity' Rank": 304,
+    "'Economic Diversity' Rank": 242,
+    "'Household Diversity' Rank": 108,
+    "'Religious Diversity' Rank": 57
+  },
+  {
+    "Overall Rank*": 95,
+    "City": "High Point, NC",
+    "Total Score": 67.22,
+    "'Socioeconomic Diversity' Rank": 258,
+    "'Cultural Diversity' Rank": 107,
+    "'Economic Diversity' Rank": 327,
+    "'Household Diversity' Rank": 80,
+    "'Religious Diversity' Rank": 222
+  },
+  {
+    "Overall Rank*": 68,
+    "City": "Orlando, FL",
+    "Total Score": 68.15,
+    "'Socioeconomic Diversity' Rank": 260,
+    "'Cultural Diversity' Rank": 26,
+    "'Economic Diversity' Rank": 430,
+    "'Household Diversity' Rank": 166,
+    "'Religious Diversity' Rank": 296
+  },
+  {
+    "Overall Rank*": 45,
+    "City": "Lowell, MA",
+    "Total Score": 68.88,
+    "'Socioeconomic Diversity' Rank": 261,
+    "'Cultural Diversity' Rank": 29,
+    "'Economic Diversity' Rank": 317,
+    "'Household Diversity' Rank": 21,
+    "'Religious Diversity' Rank": 281
+  },
+  {
+    "Overall Rank*": 460,
+    "City": "St. George, UT",
+    "Total Score": 58.83,
+    "'Socioeconomic Diversity' Rank": 262,
+    "'Cultural Diversity' Rank": 362,
+    "'Economic Diversity' Rank": 287,
+    "'Household Diversity' Rank": 462,
+    "'Religious Diversity' Rank": 473
+  },
+  {
+    "Overall Rank*": 278,
+    "City": "Union City, NJ",
+    "Total Score": 63.93,
+    "'Socioeconomic Diversity' Rank": 263,
+    "'Cultural Diversity' Rank": 339,
+    "'Economic Diversity' Rank": 179,
+    "'Household Diversity' Rank": 1,
+    "'Religious Diversity' Rank": 257
+  },
+  {
+    "Overall Rank*": 232,
+    "City": "Albany, NY",
+    "Total Score": 64.6,
+    "'Socioeconomic Diversity' Rank": 263,
+    "'Cultural Diversity' Rank": 164,
+    "'Economic Diversity' Rank": 212,
+    "'Household Diversity' Rank": 486,
+    "'Religious Diversity' Rank": 289
+  },
+  {
+    "Overall Rank*": 80,
+    "City": "Jacksonville, FL",
+    "Total Score": 67.67,
+    "'Socioeconomic Diversity' Rank": 265,
+    "'Cultural Diversity' Rank": 151,
+    "'Economic Diversity' Rank": 199,
+    "'Household Diversity' Rank": 87,
+    "'Religious Diversity' Rank": 83
+  },
+  {
+    "Overall Rank*": 116,
+    "City": "West Valley City, UT",
+    "Total Score": 66.76,
+    "'Socioeconomic Diversity' Rank": 266,
+    "'Cultural Diversity' Rank": 70,
+    "'Economic Diversity' Rank": 106,
+    "'Household Diversity' Rank": 281,
+    "'Religious Diversity' Rank": 390
+  },
+  {
+    "Overall Rank*": 83,
+    "City": "Tulsa, OK",
+    "Total Score": 67.55,
+    "'Socioeconomic Diversity' Rank": 267,
+    "'Cultural Diversity' Rank": 135,
+    "'Economic Diversity' Rank": 204,
+    "'Household Diversity' Rank": 136,
+    "'Religious Diversity' Rank": 124
+  },
+  {
+    "Overall Rank*": 109,
+    "City": "Bethlehem, PA",
+    "Total Score": 66.91,
+    "'Socioeconomic Diversity' Rank": 268,
+    "'Cultural Diversity' Rank": 145,
+    "'Economic Diversity' Rank": 437,
+    "'Household Diversity' Rank": 110,
+    "'Religious Diversity' Rank": 121
+  },
+  {
+    "Overall Rank*": 213,
+    "City": "El Paso, TX",
+    "Total Score": 64.93,
+    "'Socioeconomic Diversity' Rank": 269,
+    "'Cultural Diversity' Rank": 250,
+    "'Economic Diversity' Rank": 37,
+    "'Household Diversity' Rank": 119,
+    "'Religious Diversity' Rank": 276
+  },
+  {
+    "Overall Rank*": 72,
+    "City": "Hilo, HI",
+    "Total Score": 68.07,
+    "'Socioeconomic Diversity' Rank": 270,
+    "'Cultural Diversity' Rank": 152,
+    "'Economic Diversity' Rank": 7,
+    "'Household Diversity' Rank": 159,
+    "'Religious Diversity' Rank": 105
+  },
+  {
+    "Overall Rank*": 197,
+    "City": "Indianapolis, IN",
+    "Total Score": 65.09,
+    "'Socioeconomic Diversity' Rank": 271,
+    "'Cultural Diversity' Rank": 196,
+    "'Economic Diversity' Rank": 261,
+    "'Household Diversity' Rank": 167,
+    "'Religious Diversity' Rank": 280
+  },
+  {
+    "Overall Rank*": 102,
+    "City": "Winston-Salem, NC",
+    "Total Score": 67.08,
+    "'Socioeconomic Diversity' Rank": 272,
+    "'Cultural Diversity' Rank": 137,
+    "'Economic Diversity' Rank": 406,
+    "'Household Diversity' Rank": 179,
+    "'Religious Diversity' Rank": 122
+  },
+  {
+    "Overall Rank*": 469,
+    "City": "Derry, NH",
+    "Total Score": 58.27,
+    "'Socioeconomic Diversity' Rank": 273,
+    "'Cultural Diversity' Rank": 474,
+    "'Economic Diversity' Rank": 297,
+    "'Household Diversity' Rank": 187,
+    "'Religious Diversity' Rank": 429
+  },
+  {
+    "Overall Rank*": 371,
+    "City": "Rapid City, SD",
+    "Total Score": 61.93,
+    "'Socioeconomic Diversity' Rank": 274,
+    "'Cultural Diversity' Rank": 385,
+    "'Economic Diversity' Rank": 125,
+    "'Household Diversity' Rank": 308,
+    "'Religious Diversity' Rank": 306
+  },
+  {
+    "Overall Rank*": 342,
+    "City": "Moore, OK",
+    "Total Score": 62.63,
+    "'Socioeconomic Diversity' Rank": 275,
+    "'Cultural Diversity' Rank": 327,
+    "'Economic Diversity' Rank": 34,
+    "'Household Diversity' Rank": 359,
+    "'Religious Diversity' Rank": 364
+  },
+  {
+    "Overall Rank*": 70,
+    "City": "Kahului, HI",
+    "Total Score": 68.1,
+    "'Socioeconomic Diversity' Rank": 276,
+    "'Cultural Diversity' Rank": 75,
+    "'Economic Diversity' Rank": 124,
+    "'Household Diversity' Rank": 78,
+    "'Religious Diversity' Rank": 255
+  },
+  {
+    "Overall Rank*": 438,
+    "City": "Duluth, MN",
+    "Total Score": 59.67,
+    "'Socioeconomic Diversity' Rank": 277,
+    "'Cultural Diversity' Rank": 475,
+    "'Economic Diversity' Rank": 444,
+    "'Household Diversity' Rank": 329,
+    "'Religious Diversity' Rank": 205
+  },
+  {
+    "Overall Rank*": 272,
+    "City": "Taylorsville, UT",
+    "Total Score": 63.98,
+    "'Socioeconomic Diversity' Rank": 278,
+    "'Cultural Diversity' Rank": 197,
+    "'Economic Diversity' Rank": 143,
+    "'Household Diversity' Rank": 302,
+    "'Religious Diversity' Rank": 390
+  },
+  {
+    "Overall Rank*": 97,
+    "City": "Spring Valley, NV",
+    "Total Score": 67.16,
+    "'Socioeconomic Diversity' Rank": 279,
+    "'Cultural Diversity' Rank": 5,
+    "'Economic Diversity' Rank": 495,
+    "'Household Diversity' Rank": 31,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 77,
+    "City": "Providence, RI",
+    "Total Score": 67.88,
+    "'Socioeconomic Diversity' Rank": 280,
+    "'Cultural Diversity' Rank": 13,
+    "'Economic Diversity' Rank": 466,
+    "'Household Diversity' Rank": 178,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 373,
+    "City": "Idaho Falls, ID",
+    "Total Score": 61.91,
+    "'Socioeconomic Diversity' Rank": 281,
+    "'Cultural Diversity' Rank": 379,
+    "'Economic Diversity' Rank": 84,
+    "'Household Diversity' Rank": 304,
+    "'Religious Diversity' Rank": 331
+  },
+  {
+    "Overall Rank*": 122,
+    "City": "New Haven, CT",
+    "Total Score": 66.61,
+    "'Socioeconomic Diversity' Rank": 282,
+    "'Cultural Diversity' Rank": 32,
+    "'Economic Diversity' Rank": 496,
+    "'Household Diversity' Rank": 402,
+    "'Religious Diversity' Rank": 299
+  },
+  {
+    "Overall Rank*": 136,
+    "City": "Brookside, DE",
+    "Total Score": 66.35,
+    "'Socioeconomic Diversity' Rank": 283,
+    "'Cultural Diversity' Rank": 149,
+    "'Economic Diversity' Rank": 344,
+    "'Household Diversity' Rank": 46,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 283,
+    "City": "Tupelo, MS",
+    "Total Score": 63.86,
+    "'Socioeconomic Diversity' Rank": 284,
+    "'Cultural Diversity' Rank": 317,
+    "'Economic Diversity' Rank": 402,
+    "'Household Diversity' Rank": 58,
+    "'Religious Diversity' Rank": 175
+  },
+  {
+    "Overall Rank*": 315,
+    "City": "Williston, ND",
+    "Total Score": 63.15,
+    "'Socioeconomic Diversity' Rank": 285,
+    "'Cultural Diversity' Rank": 419,
+    "'Economic Diversity' Rank": 82,
+    "'Household Diversity' Rank": 317,
+    "'Religious Diversity' Rank": 56
+  },
+  {
+    "Overall Rank*": 411,
+    "City": "Casper, WY",
+    "Total Score": 60.67,
+    "'Socioeconomic Diversity' Rank": 286,
+    "'Cultural Diversity' Rank": 415,
+    "'Economic Diversity' Rank": 51,
+    "'Household Diversity' Rank": 265,
+    "'Religious Diversity' Rank": 395
+  },
+  {
+    "Overall Rank*": 325,
+    "City": "Elizabethtown, KY",
+    "Total Score": 62.92,
+    "'Socioeconomic Diversity' Rank": 287,
+    "'Cultural Diversity' Rank": 343,
+    "'Economic Diversity' Rank": 114,
+    "'Household Diversity' Rank": 123,
+    "'Religious Diversity' Rank": 312
+  },
+  {
+    "Overall Rank*": 168,
+    "City": "Bossier City, LA",
+    "Total Score": 65.66,
+    "'Socioeconomic Diversity' Rank": 288,
+    "'Cultural Diversity' Rank": 234,
+    "'Economic Diversity' Rank": 62,
+    "'Household Diversity' Rank": 115,
+    "'Religious Diversity' Rank": 177
+  },
+  {
+    "Overall Rank*": 418,
+    "City": "Sheridan, WY",
+    "Total Score": 60.59,
+    "'Socioeconomic Diversity' Rank": 289,
+    "'Cultural Diversity' Rank": 447,
+    "'Economic Diversity' Rank": 91,
+    "'Household Diversity' Rank": 410,
+    "'Religious Diversity' Rank": 261
+  },
+  {
+    "Overall Rank*": 185,
+    "City": "Newport News, VA",
+    "Total Score": 65.32,
+    "'Socioeconomic Diversity' Rank": 290,
+    "'Cultural Diversity' Rank": 156,
+    "'Economic Diversity' Rank": 61,
+    "'Household Diversity' Rank": 78,
+    "'Religious Diversity' Rank": 387
+  },
+  {
+    "Overall Rank*": 88,
+    "City": "Las Cruces, NM",
+    "Total Score": 67.32,
+    "'Socioeconomic Diversity' Rank": 291,
+    "'Cultural Diversity' Rank": 101,
+    "'Economic Diversity' Rank": 119,
+    "'Household Diversity' Rank": 83,
+    "'Religious Diversity' Rank": 264
+  },
+  {
+    "Overall Rank*": 191,
+    "City": "Des Moines, IA",
+    "Total Score": 65.22,
+    "'Socioeconomic Diversity' Rank": 292,
+    "'Cultural Diversity' Rank": 218,
+    "'Economic Diversity' Rank": 175,
+    "'Household Diversity' Rank": 81,
+    "'Religious Diversity' Rank": 238
+  },
+  {
+    "Overall Rank*": 118,
+    "City": "Farmington, NM",
+    "Total Score": 66.74,
+    "'Socioeconomic Diversity' Rank": 293,
+    "'Cultural Diversity' Rank": 102,
+    "'Economic Diversity' Rank": 73,
+    "'Household Diversity' Rank": 197,
+    "'Religious Diversity' Rank": 313
+  },
+  {
+    "Overall Rank*": 491,
+    "City": "Laconia, NH",
+    "Total Score": 56.73,
+    "'Socioeconomic Diversity' Rank": 294,
+    "'Cultural Diversity' Rank": 496,
+    "'Economic Diversity' Rank": 238,
+    "'Household Diversity' Rank": 172,
+    "'Religious Diversity' Rank": 452
+  },
+  {
+    "Overall Rank*": 90,
+    "City": "Glendale, AZ",
+    "Total Score": 67.28,
+    "'Socioeconomic Diversity' Rank": 295,
+    "'Cultural Diversity' Rank": 71,
+    "'Economic Diversity' Rank": 149,
+    "'Household Diversity' Rank": 28,
+    "'Religious Diversity' Rank": 340
+  },
+  {
+    "Overall Rank*": 480,
+    "City": "Brattleboro, VT",
+    "Total Score": 57.63,
+    "'Socioeconomic Diversity' Rank": 296,
+    "'Cultural Diversity' Rank": 445,
+    "'Economic Diversity' Rank": 355,
+    "'Household Diversity' Rank": 158,
+    "'Religious Diversity' Rank": 462
+  },
+  {
+    "Overall Rank*": 252,
+    "City": "Columbus, NE",
+    "Total Score": 64.25,
+    "'Socioeconomic Diversity' Rank": 297,
+    "'Cultural Diversity' Rank": 310,
+    "'Economic Diversity' Rank": 438,
+    "'Household Diversity' Rank": 401,
+    "'Religious Diversity' Rank": 42
+  },
+  {
+    "Overall Rank*": 113,
+    "City": "Brockton, MA",
+    "Total Score": 66.79,
+    "'Socioeconomic Diversity' Rank": 298,
+    "'Cultural Diversity' Rank": 54,
+    "'Economic Diversity' Rank": 366,
+    "'Household Diversity' Rank": 4,
+    "'Religious Diversity' Rank": 408
+  },
+  {
+    "Overall Rank*": 201,
+    "City": "New Orleans, LA",
+    "Total Score": 65.02,
+    "'Socioeconomic Diversity' Rank": 299,
+    "'Cultural Diversity' Rank": 266,
+    "'Economic Diversity' Rank": 280,
+    "'Household Diversity' Rank": 349,
+    "'Religious Diversity' Rank": 81
+  },
+  {
+    "Overall Rank*": 285,
+    "City": "Tuscaloosa, AL",
+    "Total Score": 63.85,
+    "'Socioeconomic Diversity' Rank": 300,
+    "'Cultural Diversity' Rank": 273,
+    "'Economic Diversity' Rank": 332,
+    "'Household Diversity' Rank": 318,
+    "'Religious Diversity' Rank": 217
+  },
+  {
+    "Overall Rank*": 452,
+    "City": "Dubuque, IA",
+    "Total Score": 59.2,
+    "'Socioeconomic Diversity' Rank": 301,
+    "'Cultural Diversity' Rank": 473,
+    "'Economic Diversity' Rank": 336,
+    "'Household Diversity' Rank": 316,
+    "'Religious Diversity' Rank": 305
+  },
+  {
+    "Overall Rank*": 31,
+    "City": "Fresno, CA",
+    "Total Score": 69.49,
+    "'Socioeconomic Diversity' Rank": 302,
+    "'Cultural Diversity' Rank": 55,
+    "'Economic Diversity' Rank": 21,
+    "'Household Diversity' Rank": 10,
+    "'Religious Diversity' Rank": 190
+  },
+  {
+    "Overall Rank*": 273,
+    "City": "Green River, WY",
+    "Total Score": 63.97,
+    "'Socioeconomic Diversity' Rank": 303,
+    "'Cultural Diversity' Rank": 341,
+    "'Economic Diversity' Rank": 13,
+    "'Household Diversity' Rank": 394,
+    "'Religious Diversity' Rank": 167
+  },
+  {
+    "Overall Rank*": 105,
+    "City": "Norfolk, VA",
+    "Total Score": 67.03,
+    "'Socioeconomic Diversity' Rank": 304,
+    "'Cultural Diversity' Rank": 162,
+    "'Economic Diversity' Rank": 28,
+    "'Household Diversity' Rank": 93,
+    "'Religious Diversity' Rank": 172
+  },
+  {
+    "Overall Rank*": 434,
+    "City": "Badger, AK",
+    "Total Score": 59.89,
+    "'Socioeconomic Diversity' Rank": 305,
+    "'Cultural Diversity' Rank": 357,
+    "'Economic Diversity' Rank": 11,
+    "'Household Diversity' Rank": 405,
+    "'Religious Diversity' Rank": 477
+  },
+  {
+    "Overall Rank*": 282,
+    "City": "Everett, WA",
+    "Total Score": 63.91,
+    "'Socioeconomic Diversity' Rank": 306,
+    "'Cultural Diversity' Rank": 123,
+    "'Economic Diversity' Rank": 176,
+    "'Household Diversity' Rank": 127,
+    "'Religious Diversity' Rank": 458
+  },
+  {
+    "Overall Rank*": 200,
+    "City": "Chattanooga, TN",
+    "Total Score": 65.03,
+    "'Socioeconomic Diversity' Rank": 307,
+    "'Cultural Diversity' Rank": 253,
+    "'Economic Diversity' Rank": 155,
+    "'Household Diversity' Rank": 190,
+    "'Religious Diversity' Rank": 151
+  },
+  {
+    "Overall Rank*": 425,
+    "City": "Laramie, WY",
+    "Total Score": 60.37,
+    "'Socioeconomic Diversity' Rank": 308,
+    "'Cultural Diversity' Rank": 350,
+    "'Economic Diversity' Rank": 416,
+    "'Household Diversity' Rank": 457,
+    "'Religious Diversity' Rank": 406
+  },
+  {
+    "Overall Rank*": 485,
+    "City": "Westbrook, ME",
+    "Total Score": 57.25,
+    "'Socioeconomic Diversity' Rank": 309,
+    "'Cultural Diversity' Rank": 433,
+    "'Economic Diversity' Rank": 403,
+    "'Household Diversity' Rank": 219,
+    "'Religious Diversity' Rank": 483
+  },
+  {
+    "Overall Rank*": 205,
+    "City": "Fort Wayne, IN",
+    "Total Score": 65,
+    "'Socioeconomic Diversity' Rank": 310,
+    "'Cultural Diversity' Rank": 263,
+    "'Economic Diversity' Rank": 371,
+    "'Household Diversity' Rank": 175,
+    "'Religious Diversity' Rank": 86
+  },
+  {
+    "Overall Rank*": 153,
+    "City": "Hampton, VA",
+    "Total Score": 66.15,
+    "'Socioeconomic Diversity' Rank": 311,
+    "'Cultural Diversity' Rank": 203,
+    "'Economic Diversity' Rank": 26,
+    "'Household Diversity' Rank": 39,
+    "'Religious Diversity' Rank": 197
+  },
+  {
+    "Overall Rank*": 410,
+    "City": "Jamestown, ND",
+    "Total Score": 60.71,
+    "'Socioeconomic Diversity' Rank": 312,
+    "'Cultural Diversity' Rank": 492,
+    "'Economic Diversity' Rank": 144,
+    "'Household Diversity' Rank": 387,
+    "'Religious Diversity' Rank": 65
+  },
+  {
+    "Overall Rank*": 324,
+    "City": "Aberdeen, SD",
+    "Total Score": 62.93,
+    "'Socioeconomic Diversity' Rank": 313,
+    "'Cultural Diversity' Rank": 440,
+    "'Economic Diversity' Rank": 210,
+    "'Household Diversity' Rank": 347,
+    "'Religious Diversity' Rank": 9
+  },
+  {
+    "Overall Rank*": 195,
+    "City": "Gresham, OR",
+    "Total Score": 65.11,
+    "'Socioeconomic Diversity' Rank": 314,
+    "'Cultural Diversity' Rank": 139,
+    "'Economic Diversity' Rank": 102,
+    "'Household Diversity' Rank": 40,
+    "'Religious Diversity' Rank": 410
+  },
+  {
+    "Overall Rank*": 307,
+    "City": "Port St. Lucie, FL",
+    "Total Score": 63.3,
+    "'Socioeconomic Diversity' Rank": 315,
+    "'Cultural Diversity' Rank": 96,
+    "'Economic Diversity' Rank": 270,
+    "'Household Diversity' Rank": 344,
+    "'Religious Diversity' Rank": 482
+  },
+  {
+    "Overall Rank*": 493,
+    "City": "Morgantown, WV",
+    "Total Score": 56.39,
+    "'Socioeconomic Diversity' Rank": 316,
+    "'Cultural Diversity' Rank": 387,
+    "'Economic Diversity' Rank": 470,
+    "'Household Diversity' Rank": 499,
+    "'Religious Diversity' Rank": 487
+  },
+  {
+    "Overall Rank*": 250,
+    "City": "Smyrna, DE",
+    "Total Score": 64.28,
+    "'Socioeconomic Diversity' Rank": 317,
+    "'Cultural Diversity' Rank": 248,
+    "'Economic Diversity' Rank": 141,
+    "'Household Diversity' Rank": 100,
+    "'Religious Diversity' Rank": 287
+  },
+  {
+    "Overall Rank*": 351,
+    "City": "Jonesboro, AR",
+    "Total Score": 62.37,
+    "'Socioeconomic Diversity' Rank": 318,
+    "'Cultural Diversity' Rank": 340,
+    "'Economic Diversity' Rank": 320,
+    "'Household Diversity' Rank": 52,
+    "'Religious Diversity' Rank": 328
+  },
+  {
+    "Overall Rank*": 303,
+    "City": "Cape Coral, FL",
+    "Total Score": 63.4,
+    "'Socioeconomic Diversity' Rank": 319,
+    "'Cultural Diversity' Rank": 211,
+    "'Economic Diversity' Rank": 133,
+    "'Household Diversity' Rank": 371,
+    "'Religious Diversity' Rank": 398
+  },
+  {
+    "Overall Rank*": 443,
+    "City": "Tanaina, AK",
+    "Total Score": 59.61,
+    "'Socioeconomic Diversity' Rank": 320,
+    "'Cultural Diversity' Rank": 332,
+    "'Economic Diversity' Rank": 15,
+    "'Household Diversity' Rank": 485,
+    "'Religious Diversity' Rank": 463
+  },
+  {
+    "Overall Rank*": 464,
+    "City": "Laredo, TX",
+    "Total Score": 58.75,
+    "'Socioeconomic Diversity' Rank": 321,
+    "'Cultural Diversity' Rank": 490,
+    "'Economic Diversity' Rank": 58,
+    "'Household Diversity' Rank": 213,
+    "'Religious Diversity' Rank": 384
+  },
+  {
+    "Overall Rank*": 498,
+    "City": "Rochester, NH",
+    "Total Score": 55.66,
+    "'Socioeconomic Diversity' Rank": 322,
+    "'Cultural Diversity' Rank": 489,
+    "'Economic Diversity' Rank": 218,
+    "'Household Diversity' Rank": 199,
+    "'Religious Diversity' Rank": 489
+  },
+  {
+    "Overall Rank*": 25,
+    "City": "Bridgeport, CT",
+    "Total Score": 69.88,
+    "'Socioeconomic Diversity' Rank": 323,
+    "'Cultural Diversity' Rank": 16,
+    "'Economic Diversity' Rank": 241,
+    "'Household Diversity' Rank": 15,
+    "'Religious Diversity' Rank": 162
+  },
+  {
+    "Overall Rank*": 316,
+    "City": "Davenport, IA",
+    "Total Score": 63.12,
+    "'Socioeconomic Diversity' Rank": 324,
+    "'Cultural Diversity' Rank": 359,
+    "'Economic Diversity' Rank": 270,
+    "'Household Diversity' Rank": 237,
+    "'Religious Diversity' Rank": 160
+  },
+  {
+    "Overall Rank*": 430,
+    "City": "Medford, OR",
+    "Total Score": 60.12,
+    "'Socioeconomic Diversity' Rank": 325,
+    "'Cultural Diversity' Rank": 323,
+    "'Economic Diversity' Rank": 159,
+    "'Household Diversity' Rank": 130,
+    "'Religious Diversity' Rank": 481
+  },
+  {
+    "Overall Rank*": 196,
+    "City": "Enid, OK",
+    "Total Score": 65.1,
+    "'Socioeconomic Diversity' Rank": 326,
+    "'Cultural Diversity' Rank": 275,
+    "'Economic Diversity' Rank": 38,
+    "'Household Diversity' Rank": 367,
+    "'Religious Diversity' Rank": 109
+  },
+  {
+    "Overall Rank*": 222,
+    "City": "Decatur, AL",
+    "Total Score": 64.74,
+    "'Socioeconomic Diversity' Rank": 327,
+    "'Cultural Diversity' Rank": 226,
+    "'Economic Diversity' Rank": 193,
+    "'Household Diversity' Rank": 191,
+    "'Religious Diversity' Rank": 224
+  },
+  {
+    "Overall Rank*": 128,
+    "City": "Baton Rouge, LA",
+    "Total Score": 66.52,
+    "'Socioeconomic Diversity' Rank": 328,
+    "'Cultural Diversity' Rank": 285,
+    "'Economic Diversity' Rank": 111,
+    "'Household Diversity' Rank": 194,
+    "'Religious Diversity' Rank": 6
+  },
+  {
+    "Overall Rank*": 103,
+    "City": "Grand Island, NE",
+    "Total Score": 67.07,
+    "'Socioeconomic Diversity' Rank": 329,
+    "'Cultural Diversity' Rank": 190,
+    "'Economic Diversity' Rank": 202,
+    "'Household Diversity' Rank": 164,
+    "'Religious Diversity' Rank": 30
+  },
+  {
+    "Overall Rank*": 474,
+    "City": "Auburn, ME",
+    "Total Score": 57.88,
+    "'Socioeconomic Diversity' Rank": 330,
+    "'Cultural Diversity' Rank": 460,
+    "'Economic Diversity' Rank": 276,
+    "'Household Diversity' Rank": 203,
+    "'Religious Diversity' Rank": 442
+  },
+  {
+    "Overall Rank*": 212,
+    "City": "Portsmouth, VA",
+    "Total Score": 64.93,
+    "'Socioeconomic Diversity' Rank": 331,
+    "'Cultural Diversity' Rank": 271,
+    "'Economic Diversity' Rank": 6,
+    "'Household Diversity' Rank": 14,
+    "'Religious Diversity' Rank": 265
+  },
+  {
+    "Overall Rank*": 416,
+    "City": "Eau Claire, WI",
+    "Total Score": 60.61,
+    "'Socioeconomic Diversity' Rank": 332,
+    "'Cultural Diversity' Rank": 466,
+    "'Economic Diversity' Rank": 392,
+    "'Household Diversity' Rank": 374,
+    "'Religious Diversity' Rank": 94
+  },
+  {
+    "Overall Rank*": 334,
+    "City": "Kenosha, WI",
+    "Total Score": 62.76,
+    "'Socioeconomic Diversity' Rank": 333,
+    "'Cultural Diversity' Rank": 233,
+    "'Economic Diversity' Rank": 357,
+    "'Household Diversity' Rank": 65,
+    "'Religious Diversity' Rank": 412
+  },
+  {
+    "Overall Rank*": 147,
+    "City": "Sioux City, IA",
+    "Total Score": 66.2,
+    "'Socioeconomic Diversity' Rank": 334,
+    "'Cultural Diversity' Rank": 245,
+    "'Economic Diversity' Rank": 282,
+    "'Household Diversity' Rank": 155,
+    "'Religious Diversity' Rank": 20
+  },
+  {
+    "Overall Rank*": 110,
+    "City": "Yakima, WA",
+    "Total Score": 66.88,
+    "'Socioeconomic Diversity' Rank": 335,
+    "'Cultural Diversity' Rank": 111,
+    "'Economic Diversity' Rank": 50,
+    "'Household Diversity' Rank": 86,
+    "'Religious Diversity' Rank": 288
+  },
+  {
+    "Overall Rank*": 348,
+    "City": "St. Cloud, MN",
+    "Total Score": 62.39,
+    "'Socioeconomic Diversity' Rank": 336,
+    "'Cultural Diversity' Rank": 380,
+    "'Economic Diversity' Rank": 398,
+    "'Household Diversity' Rank": 268,
+    "'Religious Diversity' Rank": 159
+  },
+  {
+    "Overall Rank*": 104,
+    "City": "Philadelphia, PA",
+    "Total Score": 67.03,
+    "'Socioeconomic Diversity' Rank": 337,
+    "'Cultural Diversity' Rank": 99,
+    "'Economic Diversity' Rank": 397,
+    "'Household Diversity' Rank": 270,
+    "'Religious Diversity' Rank": 152
+  },
+  {
+    "Overall Rank*": 306,
+    "City": "Dothan, AL",
+    "Total Score": 63.33,
+    "'Socioeconomic Diversity' Rank": 338,
+    "'Cultural Diversity' Rank": 315,
+    "'Economic Diversity' Rank": 219,
+    "'Household Diversity' Rank": 163,
+    "'Religious Diversity' Rank": 252
+  },
+  {
+    "Overall Rank*": 446,
+    "City": "Knik-Fairview, AK",
+    "Total Score": 59.53,
+    "'Socioeconomic Diversity' Rank": 339,
+    "'Cultural Diversity' Rank": 378,
+    "'Economic Diversity' Rank": 5,
+    "'Household Diversity' Rank": 396,
+    "'Religious Diversity' Rank": 463
+  },
+  {
+    "Overall Rank*": 84,
+    "City": "Pawtucket, RI",
+    "Total Score": 67.48,
+    "'Socioeconomic Diversity' Rank": 340,
+    "'Cultural Diversity' Rank": 39,
+    "'Economic Diversity' Rank": 414,
+    "'Household Diversity' Rank": 33,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 230,
+    "City": "Topeka, KS",
+    "Total Score": 64.62,
+    "'Socioeconomic Diversity' Rank": 341,
+    "'Cultural Diversity' Rank": 284,
+    "'Economic Diversity' Rank": 90,
+    "'Household Diversity' Rank": 241,
+    "'Religious Diversity' Rank": 150
+  },
+  {
+    "Overall Rank*": 133,
+    "City": "Paradise, NV",
+    "Total Score": 66.41,
+    "'Socioeconomic Diversity' Rank": 342,
+    "'Cultural Diversity' Rank": 18,
+    "'Economic Diversity' Rank": 483,
+    "'Household Diversity' Rank": 55,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 193,
+    "City": "Rock Hill, SC",
+    "Total Score": 65.2,
+    "'Socioeconomic Diversity' Rank": 343,
+    "'Cultural Diversity' Rank": 216,
+    "'Economic Diversity' Rank": 173,
+    "'Household Diversity' Rank": 68,
+    "'Religious Diversity' Rank": 207
+  },
+  {
+    "Overall Rank*": 350,
+    "City": "Carson City, NV",
+    "Total Score": 62.39,
+    "'Socioeconomic Diversity' Rank": 344,
+    "'Cultural Diversity' Rank": 184,
+    "'Economic Diversity' Rank": 9,
+    "'Household Diversity' Rank": 88,
+    "'Religious Diversity' Rank": 488
+  },
+  {
+    "Overall Rank*": 443,
+    "City": "Gillette, WY",
+    "Total Score": 59.61,
+    "'Socioeconomic Diversity' Rank": 345,
+    "'Cultural Diversity' Rank": 411,
+    "'Economic Diversity' Rank": 122,
+    "'Household Diversity' Rank": 366,
+    "'Religious Diversity' Rank": 425
+  },
+  {
+    "Overall Rank*": 251,
+    "City": "St. Louis, MO",
+    "Total Score": 64.27,
+    "'Socioeconomic Diversity' Rank": 346,
+    "'Cultural Diversity' Rank": 232,
+    "'Economic Diversity' Rank": 379,
+    "'Household Diversity' Rank": 404,
+    "'Religious Diversity' Rank": 158
+  },
+  {
+    "Overall Rank*": 454,
+    "City": "Spearfish, SD",
+    "Total Score": 59.08,
+    "'Socioeconomic Diversity' Rank": 347,
+    "'Cultural Diversity' Rank": 479,
+    "'Economic Diversity' Rank": 147,
+    "'Household Diversity' Rank": 384,
+    "'Religious Diversity' Rank": 303
+  },
+  {
+    "Overall Rank*": 82,
+    "City": "Columbus, GA",
+    "Total Score": 67.57,
+    "'Socioeconomic Diversity' Rank": 348,
+    "'Cultural Diversity' Rank": 180,
+    "'Economic Diversity' Rank": 57,
+    "'Household Diversity' Rank": 43,
+    "'Religious Diversity' Rank": 34
+  },
+  {
+    "Overall Rank*": 223,
+    "City": "Wilmington, DE",
+    "Total Score": 64.67,
+    "'Socioeconomic Diversity' Rank": 349,
+    "'Cultural Diversity' Rank": 191,
+    "'Economic Diversity' Rank": 405,
+    "'Household Diversity' Rank": 272,
+    "'Religious Diversity' Rank": 228
+  },
+  {
+    "Overall Rank*": 343,
+    "City": "Cicero, IL",
+    "Total Score": 62.59,
+    "'Socioeconomic Diversity' Rank": 350,
+    "'Cultural Diversity' Rank": 403,
+    "'Economic Diversity' Rank": 316,
+    "'Household Diversity' Rank": 139,
+    "'Religious Diversity' Rank": 97
+  },
+  {
+    "Overall Rank*": 73,
+    "City": "Elizabeth, NJ",
+    "Total Score": 68.06,
+    "'Socioeconomic Diversity' Rank": 351,
+    "'Cultural Diversity' Rank": 94,
+    "'Economic Diversity' Rank": 203,
+    "'Household Diversity' Rank": 5,
+    "'Religious Diversity' Rank": 147
+  },
+  {
+    "Overall Rank*": 459,
+    "City": "Lakes, AK",
+    "Total Score": 58.88,
+    "'Socioeconomic Diversity' Rank": 352,
+    "'Cultural Diversity' Rank": 366,
+    "'Economic Diversity' Rank": 27,
+    "'Household Diversity' Rank": 478,
+    "'Religious Diversity' Rank": 463
+  },
+  {
+    "Overall Rank*": 365,
+    "City": "Fremont, NE",
+    "Total Score": 62.06,
+    "'Socioeconomic Diversity' Rank": 353,
+    "'Cultural Diversity' Rank": 390,
+    "'Economic Diversity' Rank": 274,
+    "'Household Diversity' Rank": 307,
+    "'Religious Diversity' Rank": 195
+  },
+  {
+    "Overall Rank*": 404,
+    "City": "Spokane, WA",
+    "Total Score": 60.87,
+    "'Socioeconomic Diversity' Rank": 354,
+    "'Cultural Diversity' Rank": 383,
+    "'Economic Diversity' Rank": 189,
+    "'Household Diversity' Rank": 171,
+    "'Religious Diversity' Rank": 396
+  },
+  {
+    "Overall Rank*": 442,
+    "City": "Levittown, PA",
+    "Total Score": 59.61,
+    "'Socioeconomic Diversity' Rank": 355,
+    "'Cultural Diversity' Rank": 467,
+    "'Economic Diversity' Rank": 224,
+    "'Household Diversity' Rank": 341,
+    "'Religious Diversity' Rank": 263
+  },
+  {
+    "Overall Rank*": 360,
+    "City": "Yankton, SD",
+    "Total Score": 62.21,
+    "'Socioeconomic Diversity' Rank": 356,
+    "'Cultural Diversity' Rank": 439,
+    "'Economic Diversity' Rank": 214,
+    "'Household Diversity' Rank": 369,
+    "'Religious Diversity' Rank": 25
+  },
+  {
+    "Overall Rank*": 335,
+    "City": "Salina, KS",
+    "Total Score": 62.73,
+    "'Socioeconomic Diversity' Rank": 357,
+    "'Cultural Diversity' Rank": 382,
+    "'Economic Diversity' Rank": 311,
+    "'Household Diversity' Rank": 244,
+    "'Religious Diversity' Rank": 125
+  },
+  {
+    "Overall Rank*": 181,
+    "City": "Huron, SD",
+    "Total Score": 65.38,
+    "'Socioeconomic Diversity' Rank": 358,
+    "'Cultural Diversity' Rank": 235,
+    "'Economic Diversity' Rank": 356,
+    "'Household Diversity' Rank": 377,
+    "'Religious Diversity' Rank": 31
+  },
+  {
+    "Overall Rank*": 336,
+    "City": "Hastings, NE",
+    "Total Score": 62.7,
+    "'Socioeconomic Diversity' Rank": 359,
+    "'Cultural Diversity' Rank": 422,
+    "'Economic Diversity' Rank": 146,
+    "'Household Diversity' Rank": 381,
+    "'Religious Diversity' Rank": 29
+  },
+  {
+    "Overall Rank*": 249,
+    "City": "Green Bay, WI",
+    "Total Score": 64.28,
+    "'Socioeconomic Diversity' Rank": 360,
+    "'Cultural Diversity' Rank": 274,
+    "'Economic Diversity' Rank": 305,
+    "'Household Diversity' Rank": 221,
+    "'Religious Diversity' Rank": 132
+  },
+  {
+    "Overall Rank*": 433,
+    "City": "Janesville, WI",
+    "Total Score": 60.03,
+    "'Socioeconomic Diversity' Rank": 361,
+    "'Cultural Diversity' Rank": 468,
+    "'Economic Diversity' Rank": 354,
+    "'Household Diversity' Rank": 223,
+    "'Religious Diversity' Rank": 188
+  },
+  {
+    "Overall Rank*": 159,
+    "City": "Sumter, SC",
+    "Total Score": 65.97,
+    "'Socioeconomic Diversity' Rank": 362,
+    "'Cultural Diversity' Rank": 241,
+    "'Economic Diversity' Rank": 44,
+    "'Household Diversity' Rank": 100,
+    "'Religious Diversity' Rank": 73
+  },
+  {
+    "Overall Rank*": 178,
+    "City": "Clarksville, TN",
+    "Total Score": 65.49,
+    "'Socioeconomic Diversity' Rank": 363,
+    "'Cultural Diversity' Rank": 170,
+    "'Economic Diversity' Rank": 18,
+    "'Household Diversity' Rank": 279,
+    "'Religious Diversity' Rank": 292
+  },
+  {
+    "Overall Rank*": 85,
+    "City": "Roswell, NM",
+    "Total Score": 67.46,
+    "'Socioeconomic Diversity' Rank": 364,
+    "'Cultural Diversity' Rank": 130,
+    "'Economic Diversity' Rank": 46,
+    "'Household Diversity' Rank": 72,
+    "'Religious Diversity' Rank": 134
+  },
+  {
+    "Overall Rank*": 479,
+    "City": "Biddeford, ME",
+    "Total Score": 57.72,
+    "'Socioeconomic Diversity' Rank": 365,
+    "'Cultural Diversity' Rank": 425,
+    "'Economic Diversity' Rank": 348,
+    "'Household Diversity' Rank": 109,
+    "'Religious Diversity' Rank": 469
+  },
+  {
+    "Overall Rank*": 369,
+    "City": "Wahpeton, ND",
+    "Total Score": 61.97,
+    "'Socioeconomic Diversity' Rank": 366,
+    "'Cultural Diversity' Rank": 451,
+    "'Economic Diversity' Rank": 277,
+    "'Household Diversity' Rank": 434,
+    "'Religious Diversity' Rank": 12
+  },
+  {
+    "Overall Rank*": 387,
+    "City": "Mitchell, SD",
+    "Total Score": 61.28,
+    "'Socioeconomic Diversity' Rank": 367,
+    "'Cultural Diversity' Rank": 488,
+    "'Economic Diversity' Rank": 236,
+    "'Household Diversity' Rank": 323,
+    "'Religious Diversity' Rank": 16
+  },
+  {
+    "Overall Rank*": 296,
+    "City": "Athens, GA",
+    "Total Score": 63.6,
+    "'Socioeconomic Diversity' Rank": 368,
+    "'Cultural Diversity' Rank": 166,
+    "'Economic Diversity' Rank": 295,
+    "'Household Diversity' Rank": 425,
+    "'Religious Diversity' Rank": 379
+  },
+  {
+    "Overall Rank*": 397,
+    "City": "Cheektowaga, NY",
+    "Total Score": 61.05,
+    "'Socioeconomic Diversity' Rank": 369,
+    "'Cultural Diversity' Rank": 441,
+    "'Economic Diversity' Rank": 250,
+    "'Household Diversity' Rank": 224,
+    "'Religious Diversity' Rank": 153
+  },
+  {
+    "Overall Rank*": 270,
+    "City": "Jackson, TN",
+    "Total Score": 64,
+    "'Socioeconomic Diversity' Rank": 370,
+    "'Cultural Diversity' Rank": 287,
+    "'Economic Diversity' Rank": 389,
+    "'Household Diversity' Rank": 165,
+    "'Religious Diversity' Rank": 133
+  },
+  {
+    "Overall Rank*": 377,
+    "City": "Parma, OH",
+    "Total Score": 61.6,
+    "'Socioeconomic Diversity' Rank": 371,
+    "'Cultural Diversity' Rank": 428,
+    "'Economic Diversity' Rank": 321,
+    "'Household Diversity' Rank": 258,
+    "'Religious Diversity' Rank": 110
+  },
+  {
+    "Overall Rank*": 413,
+    "City": "Riverton, WY",
+    "Total Score": 60.64,
+    "'Socioeconomic Diversity' Rank": 372,
+    "'Cultural Diversity' Rank": 371,
+    "'Economic Diversity' Rank": 20,
+    "'Household Diversity' Rank": 143,
+    "'Religious Diversity' Rank": 439
+  },
+  {
+    "Overall Rank*": 431,
+    "City": "Coeur d'Alene, ID",
+    "Total Score": 60.05,
+    "'Socioeconomic Diversity' Rank": 373,
+    "'Cultural Diversity' Rank": 463,
+    "'Economic Diversity' Rank": 98,
+    "'Household Diversity' Rank": 200,
+    "'Religious Diversity' Rank": 274
+  },
+  {
+    "Overall Rank*": 482,
+    "City": "Rutland, VT",
+    "Total Score": 57.39,
+    "'Socioeconomic Diversity' Rank": 374,
+    "'Cultural Diversity' Rank": 493,
+    "'Economic Diversity' Rank": 226,
+    "'Household Diversity' Rank": 253,
+    "'Religious Diversity' Rank": 413
+  },
+  {
+    "Overall Rank*": 134,
+    "City": "Fayetteville, NC",
+    "Total Score": 66.4,
+    "'Socioeconomic Diversity' Rank": 375,
+    "'Cultural Diversity' Rank": 120,
+    "'Economic Diversity' Rank": 66,
+    "'Household Diversity' Rank": 161,
+    "'Religious Diversity' Rank": 277
+  },
+  {
+    "Overall Rank*": 247,
+    "City": "Ogden, UT",
+    "Total Score": 64.33,
+    "'Socioeconomic Diversity' Rank": 376,
+    "'Cultural Diversity' Rank": 176,
+    "'Economic Diversity' Rank": 92,
+    "'Household Diversity' Rank": 75,
+    "'Religious Diversity' Rank": 388
+  },
+  {
+    "Overall Rank*": 447,
+    "City": "Great Falls, MT",
+    "Total Score": 59.45,
+    "'Socioeconomic Diversity' Rank": 377,
+    "'Cultural Diversity' Rank": 435,
+    "'Economic Diversity' Rank": 138,
+    "'Household Diversity' Rank": 280,
+    "'Religious Diversity' Rank": 381
+  },
+  {
+    "Overall Rank*": 277,
+    "City": "Cincinnati, OH",
+    "Total Score": 63.95,
+    "'Socioeconomic Diversity' Rank": 378,
+    "'Cultural Diversity' Rank": 258,
+    "'Economic Diversity' Rank": 413,
+    "'Household Diversity' Rank": 423,
+    "'Religious Diversity' Rank": 99
+  },
+  {
+    "Overall Rank*": 119,
+    "City": "Rockford, IL",
+    "Total Score": 66.71,
+    "'Socioeconomic Diversity' Rank": 379,
+    "'Cultural Diversity' Rank": 150,
+    "'Economic Diversity' Rank": 375,
+    "'Household Diversity' Rank": 44,
+    "'Religious Diversity' Rank": 92
+  },
+  {
+    "Overall Rank*": 392,
+    "City": "Pocatello, ID",
+    "Total Score": 61.2,
+    "'Socioeconomic Diversity' Rank": 380,
+    "'Cultural Diversity' Rank": 416,
+    "'Economic Diversity' Rank": 121,
+    "'Household Diversity' Rank": 217,
+    "'Religious Diversity' Rank": 256
+  },
+  {
+    "Overall Rank*": 269,
+    "City": "Bowling Green, KY",
+    "Total Score": 64.03,
+    "'Socioeconomic Diversity' Rank": 381,
+    "'Cultural Diversity' Rank": 223,
+    "'Economic Diversity' Rank": 254,
+    "'Household Diversity' Rank": 237,
+    "'Religious Diversity' Rank": 273
+  },
+  {
+    "Overall Rank*": 436,
+    "City": "Lafayette, IN",
+    "Total Score": 59.79,
+    "'Socioeconomic Diversity' Rank": 382,
+    "'Cultural Diversity' Rank": 342,
+    "'Economic Diversity' Rank": 443,
+    "'Household Diversity' Rank": 188,
+    "'Religious Diversity' Rank": 445
+  },
+  {
+    "Overall Rank*": 60,
+    "City": "Clovis, NM",
+    "Total Score": 68.33,
+    "'Socioeconomic Diversity' Rank": 383,
+    "'Cultural Diversity' Rank": 104,
+    "'Economic Diversity' Rank": 8,
+    "'Household Diversity' Rank": 104,
+    "'Religious Diversity' Rank": 108
+  },
+  {
+    "Overall Rank*": 61,
+    "City": "New Britain, CT",
+    "Total Score": 68.31,
+    "'Socioeconomic Diversity' Rank": 384,
+    "'Cultural Diversity' Rank": 34,
+    "'Economic Diversity' Rank": 340,
+    "'Household Diversity' Rank": 53,
+    "'Religious Diversity' Rank": 218
+  },
+  {
+    "Overall Rank*": 268,
+    "City": "Shreveport, LA",
+    "Total Score": 64.05,
+    "'Socioeconomic Diversity' Rank": 385,
+    "'Cultural Diversity' Rank": 346,
+    "'Economic Diversity' Rank": 256,
+    "'Household Diversity' Rank": 66,
+    "'Religious Diversity' Rank": 72
+  },
+  {
+    "Overall Rank*": 233,
+    "City": "Mobile, AL",
+    "Total Score": 64.57,
+    "'Socioeconomic Diversity' Rank": 386,
+    "'Cultural Diversity' Rank": 312,
+    "'Economic Diversity' Rank": 247,
+    "'Household Diversity' Rank": 94,
+    "'Religious Diversity' Rank": 59
+  },
+  {
+    "Overall Rank*": 141,
+    "City": "North Charleston, SC",
+    "Total Score": 66.27,
+    "'Socioeconomic Diversity' Rank": 387,
+    "'Cultural Diversity' Rank": 169,
+    "'Economic Diversity' Rank": 43,
+    "'Household Diversity' Rank": 90,
+    "'Religious Diversity' Rank": 185
+  },
+  {
+    "Overall Rank*": 375,
+    "City": "Evanston, WY",
+    "Total Score": 61.76,
+    "'Socioeconomic Diversity' Rank": 388,
+    "'Cultural Diversity' Rank": 363,
+    "'Economic Diversity' Rank": 115,
+    "'Household Diversity' Rank": 375,
+    "'Religious Diversity' Rank": 293
+  },
+  {
+    "Overall Rank*": 175,
+    "City": "Lake Charles, LA",
+    "Total Score": 65.54,
+    "'Socioeconomic Diversity' Rank": 389,
+    "'Cultural Diversity' Rank": 276,
+    "'Economic Diversity' Rank": 308,
+    "'Household Diversity' Rank": 34,
+    "'Religious Diversity' Rank": 24
+  },
+  {
+    "Overall Rank*": 216,
+    "City": "Schenectady, NY",
+    "Total Score": 64.84,
+    "'Socioeconomic Diversity' Rank": 390,
+    "'Cultural Diversity' Rank": 174,
+    "'Economic Diversity' Rank": 244,
+    "'Household Diversity' Rank": 305,
+    "'Religious Diversity' Rank": 254
+  },
+  {
+    "Overall Rank*": 276,
+    "City": "Waterloo, IA",
+    "Total Score": 63.95,
+    "'Socioeconomic Diversity' Rank": 391,
+    "'Cultural Diversity' Rank": 337,
+    "'Economic Diversity' Rank": 376,
+    "'Household Diversity' Rank": 254,
+    "'Religious Diversity' Rank": 37
+  },
+  {
+    "Overall Rank*": 487,
+    "City": "Augusta, ME",
+    "Total Score": 56.92,
+    "'Socioeconomic Diversity' Rank": 392,
+    "'Cultural Diversity' Rank": 483,
+    "'Economic Diversity' Rank": 68,
+    "'Household Diversity' Rank": 271,
+    "'Religious Diversity' Rank": 454
+  },
+  {
+    "Overall Rank*": 445,
+    "City": "Oshkosh, WI",
+    "Total Score": 59.6,
+    "'Socioeconomic Diversity' Rank": 393,
+    "'Cultural Diversity' Rank": 481,
+    "'Economic Diversity' Rank": 386,
+    "'Household Diversity' Rank": 265,
+    "'Religious Diversity' Rank": 156
+  },
+  {
+    "Overall Rank*": 471,
+    "City": "Bloomington, IN",
+    "Total Score": 58.25,
+    "'Socioeconomic Diversity' Rank": 394,
+    "'Cultural Diversity' Rank": 295,
+    "'Economic Diversity' Rank": 464,
+    "'Household Diversity' Rank": 496,
+    "'Religious Diversity' Rank": 459
+  },
+  {
+    "Overall Rank*": 206,
+    "City": "New Bedford, MA",
+    "Total Score": 65,
+    "'Socioeconomic Diversity' Rank": 394,
+    "'Cultural Diversity' Rank": 119,
+    "'Economic Diversity' Rank": 278,
+    "'Household Diversity' Rank": 42,
+    "'Religious Diversity' Rank": 382
+  },
+  {
+    "Overall Rank*": 424,
+    "City": "Council Bluffs, IA",
+    "Total Score": 60.37,
+    "'Socioeconomic Diversity' Rank": 396,
+    "'Cultural Diversity' Rank": 409,
+    "'Economic Diversity' Rank": 192,
+    "'Household Diversity' Rank": 103,
+    "'Religious Diversity' Rank": 359
+  },
+  {
+    "Overall Rank*": 494,
+    "City": "Lewiston, ID",
+    "Total Score": 56.33,
+    "'Socioeconomic Diversity' Rank": 397,
+    "'Cultural Diversity' Rank": 482,
+    "'Economic Diversity' Rank": 80,
+    "'Household Diversity' Rank": 306,
+    "'Religious Diversity' Rank": 472
+  },
+  {
+    "Overall Rank*": 151,
+    "City": "Biloxi, MS",
+    "Total Score": 66.17,
+    "'Socioeconomic Diversity' Rank": 398,
+    "'Cultural Diversity' Rank": 178,
+    "'Economic Diversity' Rank": 85,
+    "'Household Diversity' Rank": 117,
+    "'Religious Diversity' Rank": 135
+  },
+  {
+    "Overall Rank*": 125,
+    "City": "Tucson, AZ",
+    "Total Score": 66.56,
+    "'Socioeconomic Diversity' Rank": 399,
+    "'Cultural Diversity' Rank": 74,
+    "'Economic Diversity' Rank": 105,
+    "'Household Diversity' Rank": 84,
+    "'Religious Diversity' Rank": 357
+  },
+  {
+    "Overall Rank*": 208,
+    "City": "North Little Rock, AR",
+    "Total Score": 64.97,
+    "'Socioeconomic Diversity' Rank": 400,
+    "'Cultural Diversity' Rank": 278,
+    "'Economic Diversity' Rank": 168,
+    "'Household Diversity' Rank": 131,
+    "'Religious Diversity' Rank": 74
+  },
+  {
+    "Overall Rank*": 166,
+    "City": "Midwest City, OK",
+    "Total Score": 65.75,
+    "'Socioeconomic Diversity' Rank": 401,
+    "'Cultural Diversity' Rank": 269,
+    "'Economic Diversity' Rank": 16,
+    "'Household Diversity' Rank": 51,
+    "'Religious Diversity' Rank": 68
+  },
+  {
+    "Overall Rank*": 370,
+    "City": "Westland, MI",
+    "Total Score": 61.95,
+    "'Socioeconomic Diversity' Rank": 402,
+    "'Cultural Diversity' Rank": 367,
+    "'Economic Diversity' Rank": 394,
+    "'Household Diversity' Rank": 105,
+    "'Religious Diversity' Rank": 247
+  },
+  {
+    "Overall Rank*": 225,
+    "City": "Macon, GA",
+    "Total Score": 64.65,
+    "'Socioeconomic Diversity' Rank": 403,
+    "'Cultural Diversity' Rank": 316,
+    "'Economic Diversity' Rank": 200,
+    "'Household Diversity' Rank": 96,
+    "'Religious Diversity' Rank": 39
+  },
+  {
+    "Overall Rank*": 486,
+    "City": "Bennington, VT",
+    "Total Score": 57.12,
+    "'Socioeconomic Diversity' Rank": 404,
+    "'Cultural Diversity' Rank": 494,
+    "'Economic Diversity' Rank": 289,
+    "'Household Diversity' Rank": 20,
+    "'Religious Diversity' Rank": 433
+  },
+  {
+    "Overall Rank*": 143,
+    "City": "Savannah, GA",
+    "Total Score": 66.27,
+    "'Socioeconomic Diversity' Rank": 405,
+    "'Cultural Diversity' Rank": 225,
+    "'Economic Diversity' Rank": 171,
+    "'Household Diversity' Rank": 111,
+    "'Religious Diversity' Rank": 27
+  },
+  {
+    "Overall Rank*": 145,
+    "City": "Memphis, TN",
+    "Total Score": 66.25,
+    "'Socioeconomic Diversity' Rank": 406,
+    "'Cultural Diversity' Rank": 270,
+    "'Economic Diversity' Rank": 120,
+    "'Household Diversity' Rank": 77,
+    "'Religious Diversity' Rank": 10
+  },
+  {
+    "Overall Rank*": 398,
+    "City": "North Platte, NE",
+    "Total Score": 61.05,
+    "'Socioeconomic Diversity' Rank": 407,
+    "'Cultural Diversity' Rank": 459,
+    "'Economic Diversity' Rank": 285,
+    "'Household Diversity' Rank": 343,
+    "'Religious Diversity' Rank": 40
+  },
+  {
+    "Overall Rank*": 355,
+    "City": "Greenville, NC",
+    "Total Score": 62.31,
+    "'Socioeconomic Diversity' Rank": 408,
+    "'Cultural Diversity' Rank": 238,
+    "'Economic Diversity' Rank": 380,
+    "'Household Diversity' Rank": 411,
+    "'Religious Diversity' Rank": 337
+  },
+  {
+    "Overall Rank*": 421,
+    "City": "Watertown, SD",
+    "Total Score": 60.54,
+    "'Socioeconomic Diversity' Rank": 409,
+    "'Cultural Diversity' Rank": 498,
+    "'Economic Diversity' Rank": 198,
+    "'Household Diversity' Rank": 358,
+    "'Religious Diversity' Rank": 13
+  },
+  {
+    "Overall Rank*": 419,
+    "City": "Wasilla, AK",
+    "Total Score": 60.57,
+    "'Socioeconomic Diversity' Rank": 410,
+    "'Cultural Diversity' Rank": 311,
+    "'Economic Diversity' Rank": 29,
+    "'Household Diversity' Rank": 59,
+    "'Religious Diversity' Rank": 463
+  },
+  {
+    "Overall Rank*": 427,
+    "City": "Wheeling, WV",
+    "Total Score": 60.3,
+    "'Socioeconomic Diversity' Rank": 411,
+    "'Cultural Diversity' Rank": 486,
+    "'Economic Diversity' Rank": 238,
+    "'Household Diversity' Rank": 330,
+    "'Religious Diversity' Rank": 60
+  },
+  {
+    "Overall Rank*": 44,
+    "City": "Kansas City, KS",
+    "Total Score": 68.88,
+    "'Socioeconomic Diversity' Rank": 412,
+    "'Cultural Diversity' Rank": 60,
+    "'Economic Diversity' Rank": 81,
+    "'Household Diversity' Rank": 29,
+    "'Religious Diversity' Rank": 115
+  },
+  {
+    "Overall Rank*": 132,
+    "City": "Roanoke, VA",
+    "Total Score": 66.45,
+    "'Socioeconomic Diversity' Rank": 413,
+    "'Cultural Diversity' Rank": 237,
+    "'Economic Diversity' Rank": 217,
+    "'Household Diversity' Rank": 97,
+    "'Religious Diversity' Rank": 7
+  },
+  {
+    "Overall Rank*": 127,
+    "City": "Lawton, OK",
+    "Total Score": 66.54,
+    "'Socioeconomic Diversity' Rank": 414,
+    "'Cultural Diversity' Rank": 144,
+    "'Economic Diversity' Rank": 1,
+    "'Household Diversity' Rank": 41,
+    "'Religious Diversity' Rank": 262
+  },
+  {
+    "Overall Rank*": 393,
+    "City": "St. Joseph, MO",
+    "Total Score": 61.13,
+    "'Socioeconomic Diversity' Rank": 415,
+    "'Cultural Diversity' Rank": 421,
+    "'Economic Diversity' Rank": 296,
+    "'Household Diversity' Rank": 91,
+    "'Religious Diversity' Rank": 198
+  },
+  {
+    "Overall Rank*": 367,
+    "City": "Warren, MI",
+    "Total Score": 62.06,
+    "'Socioeconomic Diversity' Rank": 416,
+    "'Cultural Diversity' Rank": 292,
+    "'Economic Diversity' Rank": 373,
+    "'Household Diversity' Rank": 61,
+    "'Religious Diversity' Rank": 362
+  },
+  {
+    "Overall Rank*": 302,
+    "City": "Twin Falls, ID",
+    "Total Score": 63.43,
+    "'Socioeconomic Diversity' Rank": 417,
+    "'Cultural Diversity' Rank": 319,
+    "'Economic Diversity' Rank": 108,
+    "'Household Diversity' Rank": 351,
+    "'Religious Diversity' Rank": 141
+  },
+  {
+    "Overall Rank*": 115,
+    "City": "Milwaukee, WI",
+    "Total Score": 66.78,
+    "'Socioeconomic Diversity' Rank": 418,
+    "'Cultural Diversity' Rank": 110,
+    "'Economic Diversity' Rank": 333,
+    "'Household Diversity' Rank": 230,
+    "'Religious Diversity' Rank": 120
+  },
+  {
+    "Overall Rank*": 501,
+    "City": "Bangor, ME",
+    "Total Score": 54.03,
+    "'Socioeconomic Diversity' Rank": 419,
+    "'Cultural Diversity' Rank": 478,
+    "'Economic Diversity' Rank": 460,
+    "'Household Diversity' Rank": 278,
+    "'Religious Diversity' Rank": 498
+  },
+  {
+    "Overall Rank*": 148,
+    "City": "Sunrise Manor, NV",
+    "Total Score": 66.2,
+    "'Socioeconomic Diversity' Rank": 420,
+    "'Cultural Diversity' Rank": 31,
+    "'Economic Diversity' Rank": 436,
+    "'Household Diversity' Rank": 7,
+    "'Religious Diversity' Rank": 418
+  },
+  {
+    "Overall Rank*": 176,
+    "City": "Alamogordo, NM",
+    "Total Score": 65.54,
+    "'Socioeconomic Diversity' Rank": 421,
+    "'Cultural Diversity' Rank": 116,
+    "'Economic Diversity' Rank": 23,
+    "'Household Diversity' Rank": 313,
+    "'Religious Diversity' Rank": 335
+  },
+  {
+    "Overall Rank*": 158,
+    "City": "Augusta, GA",
+    "Total Score": 65.98,
+    "'Socioeconomic Diversity' Rank": 422,
+    "'Cultural Diversity' Rank": 254,
+    "'Economic Diversity' Rank": 79,
+    "'Household Diversity' Rank": 67,
+    "'Religious Diversity' Rank": 23
+  },
+  {
+    "Overall Rank*": 87,
+    "City": "Lancaster, PA",
+    "Total Score": 67.41,
+    "'Socioeconomic Diversity' Rank": 423,
+    "'Cultural Diversity' Rank": 62,
+    "'Economic Diversity' Rank": 427,
+    "'Household Diversity' Rank": 107,
+    "'Religious Diversity' Rank": 174
+  },
+  {
+    "Overall Rank*": 327,
+    "City": "Independence, MO",
+    "Total Score": 62.84,
+    "'Socioeconomic Diversity' Rank": 424,
+    "'Cultural Diversity' Rank": 391,
+    "'Economic Diversity' Rank": 145,
+    "'Household Diversity' Rank": 154,
+    "'Religious Diversity' Rank": 93
+  },
+  {
+    "Overall Rank*": 461,
+    "City": "Beckley, WV",
+    "Total Score": 58.8,
+    "'Socioeconomic Diversity' Rank": 425,
+    "'Cultural Diversity' Rank": 372,
+    "'Economic Diversity' Rank": 291,
+    "'Household Diversity' Rank": 153,
+    "'Religious Diversity' Rank": 461
+  },
+  {
+    "Overall Rank*": 188,
+    "City": "Racine, WI",
+    "Total Score": 65.3,
+    "'Socioeconomic Diversity' Rank": 426,
+    "'Cultural Diversity' Rank": 172,
+    "'Economic Diversity' Rank": 331,
+    "'Household Diversity' Rank": 48,
+    "'Religious Diversity' Rank": 200
+  },
+  {
+    "Overall Rank*": 262,
+    "City": "Miami, FL",
+    "Total Score": 64.12,
+    "'Socioeconomic Diversity' Rank": 427,
+    "'Cultural Diversity' Rank": 182,
+    "'Economic Diversity' Rank": 88,
+    "'Household Diversity' Rank": 64,
+    "'Religious Diversity' Rank": 370
+  },
+  {
+    "Overall Rank*": 468,
+    "City": "Butte-Silver Bow, MT",
+    "Total Score": 58.34,
+    "'Socioeconomic Diversity' Rank": 428,
+    "'Cultural Diversity' Rank": 487,
+    "'Economic Diversity' Rank": 75,
+    "'Household Diversity' Rank": 282,
+    "'Religious Diversity' Rank": 334
+  },
+  {
+    "Overall Rank*": 451,
+    "City": "Havre, MT",
+    "Total Score": 59.21,
+    "'Socioeconomic Diversity' Rank": 429,
+    "'Cultural Diversity' Rank": 442,
+    "'Economic Diversity' Rank": 97,
+    "'Household Diversity' Rank": 208,
+    "'Religious Diversity' Rank": 380
+  },
+  {
+    "Overall Rank*": 339,
+    "City": "Fall River, MA",
+    "Total Score": 62.67,
+    "'Socioeconomic Diversity' Rank": 430,
+    "'Cultural Diversity' Rank": 236,
+    "'Economic Diversity' Rank": 290,
+    "'Household Diversity' Rank": 57,
+    "'Religious Diversity' Rank": 382
+  },
+  {
+    "Overall Rank*": 51,
+    "City": "Hammond, IN",
+    "Total Score": 68.52,
+    "'Socioeconomic Diversity' Rank": 431,
+    "'Cultural Diversity' Rank": 83,
+    "'Economic Diversity' Rank": 323,
+    "'Household Diversity' Rank": 12,
+    "'Religious Diversity' Rank": 35
+  },
+  {
+    "Overall Rank*": 295,
+    "City": "Norfolk, NE",
+    "Total Score": 63.64,
+    "'Socioeconomic Diversity' Rank": 432,
+    "'Cultural Diversity' Rank": 386,
+    "'Economic Diversity' Rank": 161,
+    "'Household Diversity' Rank": 292,
+    "'Religious Diversity' Rank": 18
+  },
+  {
+    "Overall Rank*": 126,
+    "City": "South Bend, IN",
+    "Total Score": 66.56,
+    "'Socioeconomic Diversity' Rank": 433,
+    "'Cultural Diversity' Rank": 160,
+    "'Economic Diversity' Rank": 451,
+    "'Household Diversity' Rank": 116,
+    "'Religious Diversity' Rank": 21
+  },
+  {
+    "Overall Rank*": 94,
+    "City": "Waterbury, CT",
+    "Total Score": 67.24,
+    "'Socioeconomic Diversity' Rank": 434,
+    "'Cultural Diversity' Rank": 45,
+    "'Economic Diversity' Rank": 314,
+    "'Household Diversity' Rank": 30,
+    "'Religious Diversity' Rank": 299
+  },
+  {
+    "Overall Rank*": 218,
+    "City": "Caldwell, ID",
+    "Total Score": 64.78,
+    "'Socioeconomic Diversity' Rank": 435,
+    "'Cultural Diversity' Rank": 157,
+    "'Economic Diversity' Rank": 74,
+    "'Household Diversity' Rank": 228,
+    "'Religious Diversity' Rank": 314
+  },
+  {
+    "Overall Rank*": 187,
+    "City": "Syracuse, NY",
+    "Total Score": 65.31,
+    "'Socioeconomic Diversity' Rank": 436,
+    "'Cultural Diversity' Rank": 142,
+    "'Economic Diversity' Rank": 446,
+    "'Household Diversity' Rank": 376,
+    "'Religious Diversity' Rank": 138
+  },
+  {
+    "Overall Rank*": 448,
+    "City": "Post Falls, ID",
+    "Total Score": 59.4,
+    "'Socioeconomic Diversity' Rank": 437,
+    "'Cultural Diversity' Rank": 462,
+    "'Economic Diversity' Rank": 89,
+    "'Household Diversity' Rank": 382,
+    "'Religious Diversity' Rank": 274
+  },
+  {
+    "Overall Rank*": 311,
+    "City": "Scranton, PA",
+    "Total Score": 63.22,
+    "'Socioeconomic Diversity' Rank": 438,
+    "'Cultural Diversity' Rank": 297,
+    "'Economic Diversity' Rank": 292,
+    "'Household Diversity' Rank": 135,
+    "'Religious Diversity' Rank": 201
+  },
+  {
+    "Overall Rank*": 266,
+    "City": "Alexandria, LA",
+    "Total Score": 64.06,
+    "'Socioeconomic Diversity' Rank": 439,
+    "'Cultural Diversity' Rank": 318,
+    "'Economic Diversity' Rank": 259,
+    "'Household Diversity' Rank": 8,
+    "'Religious Diversity' Rank": 98
+  },
+  {
+    "Overall Rank*": 184,
+    "City": "Passaic, NJ",
+    "Total Score": 65.34,
+    "'Socioeconomic Diversity' Rank": 440,
+    "'Cultural Diversity' Rank": 168,
+    "'Economic Diversity' Rank": 346,
+    "'Household Diversity' Rank": 99,
+    "'Religious Diversity' Rank": 169
+  },
+  {
+    "Overall Rank*": 326,
+    "City": "Nampa, ID",
+    "Total Score": 62.86,
+    "'Socioeconomic Diversity' Rank": 441,
+    "'Cultural Diversity' Rank": 261,
+    "'Economic Diversity' Rank": 103,
+    "'Household Diversity' Rank": 259,
+    "'Religious Diversity' Rank": 314
+  },
+  {
+    "Overall Rank*": 456,
+    "City": "Fairmont, WV",
+    "Total Score": 59,
+    "'Socioeconomic Diversity' Rank": 442,
+    "'Cultural Diversity' Rank": 491,
+    "'Economic Diversity' Rank": 258,
+    "'Household Diversity' Rank": 121,
+    "'Religious Diversity' Rank": 225
+  },
+  {
+    "Overall Rank*": 483,
+    "City": "Richmond, KY",
+    "Total Score": 57.38,
+    "'Socioeconomic Diversity' Rank": 443,
+    "'Cultural Diversity' Rank": 449,
+    "'Economic Diversity' Rank": 328,
+    "'Household Diversity' Rank": 409,
+    "'Religious Diversity' Rank": 431
+  },
+  {
+    "Overall Rank*": 237,
+    "City": "Horn Lake, MS",
+    "Total Score": 64.55,
+    "'Socioeconomic Diversity' Rank": 444,
+    "'Cultural Diversity' Rank": 217,
+    "'Economic Diversity' Rank": 135,
+    "'Household Diversity' Rank": 22,
+    "'Religious Diversity' Rank": 244
+  },
+  {
+    "Overall Rank*": 107,
+    "City": "Springfield, MA",
+    "Total Score": 66.95,
+    "'Socioeconomic Diversity' Rank": 445,
+    "'Cultural Diversity' Rank": 52,
+    "'Economic Diversity' Rank": 326,
+    "'Household Diversity' Rank": 25,
+    "'Religious Diversity' Rank": 304
+  },
+  {
+    "Overall Rank*": 495,
+    "City": "Kalispell, MT",
+    "Total Score": 56.11,
+    "'Socioeconomic Diversity' Rank": 446,
+    "'Cultural Diversity' Rank": 485,
+    "'Economic Diversity' Rank": 257,
+    "'Household Diversity' Rank": 360,
+    "'Religious Diversity' Rank": 450
+  },
+  {
+    "Overall Rank*": 390,
+    "City": "Covington, KY",
+    "Total Score": 61.21,
+    "'Socioeconomic Diversity' Rank": 447,
+    "'Cultural Diversity' Rank": 406,
+    "'Economic Diversity' Rank": 196,
+    "'Household Diversity' Rank": 114,
+    "'Religious Diversity' Rank": 214
+  },
+  {
+    "Overall Rank*": 323,
+    "City": "Knoxville, TN",
+    "Total Score": 62.94,
+    "'Socioeconomic Diversity' Rank": 448,
+    "'Cultural Diversity' Rank": 331,
+    "'Economic Diversity' Rank": 213,
+    "'Household Diversity' Rank": 288,
+    "'Religious Diversity' Rank": 145
+  },
+  {
+    "Overall Rank*": 399,
+    "City": "Owensboro, KY",
+    "Total Score": 61.04,
+    "'Socioeconomic Diversity' Rank": 449,
+    "'Cultural Diversity' Rank": 452,
+    "'Economic Diversity' Rank": 262,
+    "'Household Diversity' Rank": 149,
+    "'Religious Diversity' Rank": 80
+  },
+  {
+    "Overall Rank*": 162,
+    "City": "Fort Smith, AR",
+    "Total Score": 65.91,
+    "'Socioeconomic Diversity' Rank": 450,
+    "'Cultural Diversity' Rank": 146,
+    "'Economic Diversity' Rank": 367,
+    "'Household Diversity' Rank": 160,
+    "'Religious Diversity' Rank": 130
+  },
+  {
+    "Overall Rank*": 234,
+    "City": "South Valley, NM",
+    "Total Score": 64.56,
+    "'Socioeconomic Diversity' Rank": 451,
+    "'Cultural Diversity' Rank": 255,
+    "'Economic Diversity' Rank": 3,
+    "'Household Diversity' Rank": 27,
+    "'Religious Diversity' Rank": 239
+  },
+  {
+    "Overall Rank*": 490,
+    "City": "Sanford, ME",
+    "Total Score": 56.86,
+    "'Socioeconomic Diversity' Rank": 452,
+    "'Cultural Diversity' Rank": 461,
+    "'Economic Diversity' Rank": 56,
+    "'Household Diversity' Rank": 134,
+    "'Religious Diversity' Rank": 469
+  },
+  {
+    "Overall Rank*": 190,
+    "City": "Gulfport, MS",
+    "Total Score": 65.22,
+    "'Socioeconomic Diversity' Rank": 453,
+    "'Cultural Diversity' Rank": 239,
+    "'Economic Diversity' Rank": 47,
+    "'Household Diversity' Rank": 6,
+    "'Religious Diversity' Rank": 135
+  },
+  {
+    "Overall Rank*": 379,
+    "City": "Stillwater, OK",
+    "Total Score": 61.54,
+    "'Socioeconomic Diversity' Rank": 454,
+    "'Cultural Diversity' Rank": 288,
+    "'Economic Diversity' Rank": 364,
+    "'Household Diversity' Rank": 484,
+    "'Religious Diversity' Rank": 272
+  },
+  {
+    "Overall Rank*": 280,
+    "City": "Woonsocket, RI",
+    "Total Score": 63.91,
+    "'Socioeconomic Diversity' Rank": 455,
+    "'Cultural Diversity' Rank": 173,
+    "'Economic Diversity' Rank": 342,
+    "'Household Diversity' Rank": 146,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 69,
+    "City": "Allentown, PA",
+    "Total Score": 68.1,
+    "'Socioeconomic Diversity' Rank": 456,
+    "'Cultural Diversity' Rank": 56,
+    "'Economic Diversity' Rank": 410,
+    "'Household Diversity' Rank": 11,
+    "'Religious Diversity' Rank": 116
+  },
+  {
+    "Overall Rank*": 192,
+    "City": "Buffalo, NY",
+    "Total Score": 65.22,
+    "'Socioeconomic Diversity' Rank": 457,
+    "'Cultural Diversity' Rank": 158,
+    "'Economic Diversity' Rank": 330,
+    "'Household Diversity' Rank": 291,
+    "'Religious Diversity' Rank": 153
+  },
+  {
+    "Overall Rank*": 463,
+    "City": "Miles City, MT",
+    "Total Score": 58.76,
+    "'Socioeconomic Diversity' Rank": 458,
+    "'Cultural Diversity' Rank": 495,
+    "'Economic Diversity' Rank": 77,
+    "'Household Diversity' Rank": 355,
+    "'Religious Diversity' Rank": 203
+  },
+  {
+    "Overall Rank*": 496,
+    "City": "Barre, VT",
+    "Total Score": 56.1,
+    "'Socioeconomic Diversity' Rank": 459,
+    "'Cultural Diversity' Rank": 497,
+    "'Economic Diversity' Rank": 181,
+    "'Household Diversity' Rank": 214,
+    "'Religious Diversity' Rank": 434
+  },
+  {
+    "Overall Rank*": 455,
+    "City": "Weirton, WV",
+    "Total Score": 59.03,
+    "'Socioeconomic Diversity' Rank": 460,
+    "'Cultural Diversity' Rank": 480,
+    "'Economic Diversity' Rank": 246,
+    "'Household Diversity' Rank": 246,
+    "'Religious Diversity' Rank": 215
+  },
+  {
+    "Overall Rank*": 386,
+    "City": "Jackson, MS",
+    "Total Score": 61.28,
+    "'Socioeconomic Diversity' Rank": 461,
+    "'Cultural Diversity' Rank": 458,
+    "'Economic Diversity' Rank": 49,
+    "'Household Diversity' Rank": 70,
+    "'Religious Diversity' Rank": 87
+  },
+  {
+    "Overall Rank*": 310,
+    "City": "Lansing, MI",
+    "Total Score": 63.23,
+    "'Socioeconomic Diversity' Rank": 462,
+    "'Cultural Diversity' Rank": 202,
+    "'Economic Diversity' Rank": 113,
+    "'Household Diversity' Rank": 227,
+    "'Religious Diversity' Rank": 360
+  },
+  {
+    "Overall Rank*": 467,
+    "City": "Lewiston, ME",
+    "Total Score": 58.38,
+    "'Socioeconomic Diversity' Rank": 463,
+    "'Cultural Diversity' Rank": 397,
+    "'Economic Diversity' Rank": 341,
+    "'Household Diversity' Rank": 206,
+    "'Religious Diversity' Rank": 442
+  },
+  {
+    "Overall Rank*": 478,
+    "City": "Springfield, OR",
+    "Total Score": 57.75,
+    "'Socioeconomic Diversity' Rank": 464,
+    "'Cultural Diversity' Rank": 365,
+    "'Economic Diversity' Rank": 184,
+    "'Household Diversity' Rank": 23,
+    "'Religious Diversity' Rank": 494
+  },
+  {
+    "Overall Rank*": 91,
+    "City": "Hartford, CT",
+    "Total Score": 67.26,
+    "'Socioeconomic Diversity' Rank": 465,
+    "'Cultural Diversity' Rank": 33,
+    "'Economic Diversity' Rank": 384,
+    "'Household Diversity' Rank": 245,
+    "'Religious Diversity' Rank": 218
+  },
+  {
+    "Overall Rank*": 242,
+    "City": "Rochester, NY",
+    "Total Score": 64.46,
+    "'Socioeconomic Diversity' Rank": 466,
+    "'Cultural Diversity' Rank": 114,
+    "'Economic Diversity' Rank": 463,
+    "'Household Diversity' Rank": 393,
+    "'Religious Diversity' Rank": 241
+  },
+  {
+    "Overall Rank*": 428,
+    "City": "Martinsburg, WV",
+    "Total Score": 60.25,
+    "'Socioeconomic Diversity' Rank": 467,
+    "'Cultural Diversity' Rank": 321,
+    "'Economic Diversity' Rank": 52,
+    "'Household Diversity' Rank": 17,
+    "'Religious Diversity' Rank": 457
+  },
+  {
+    "Overall Rank*": 89,
+    "City": "Trenton, NJ",
+    "Total Score": 67.31,
+    "'Socioeconomic Diversity' Rank": 468,
+    "'Cultural Diversity' Rank": 72,
+    "'Economic Diversity' Rank": 169,
+    "'Household Diversity' Rank": 50,
+    "'Religious Diversity' Rank": 176
+  },
+  {
+    "Overall Rank*": 382,
+    "City": "Monroe, LA",
+    "Total Score": 61.46,
+    "'Socioeconomic Diversity' Rank": 469,
+    "'Cultural Diversity' Rank": 396,
+    "'Economic Diversity' Rank": 353,
+    "'Household Diversity' Rank": 192,
+    "'Religious Diversity' Rank": 127
+  },
+  {
+    "Overall Rank*": 47,
+    "City": "Newark, NJ",
+    "Total Score": 68.69,
+    "'Socioeconomic Diversity' Rank": 470,
+    "'Cultural Diversity' Rank": 47,
+    "'Economic Diversity' Rank": 94,
+    "'Household Diversity' Rank": 70,
+    "'Religious Diversity' Rank": 84
+  },
+  {
+    "Overall Rank*": 354,
+    "City": "Hattiesburg, MS",
+    "Total Score": 62.33,
+    "'Socioeconomic Diversity' Rank": 471,
+    "'Cultural Diversity' Rank": 309,
+    "'Economic Diversity' Rank": 281,
+    "'Household Diversity' Rank": 184,
+    "'Religious Diversity' Rank": 227
+  },
+  {
+    "Overall Rank*": 341,
+    "City": "Birmingham, AL",
+    "Total Score": 62.65,
+    "'Socioeconomic Diversity' Rank": 472,
+    "'Cultural Diversity' Rank": 394,
+    "'Economic Diversity' Rank": 194,
+    "'Household Diversity' Rank": 181,
+    "'Religious Diversity' Rank": 32
+  },
+  {
+    "Overall Rank*": 457,
+    "City": "Clarksburg, WV",
+    "Total Score": 58.97,
+    "'Socioeconomic Diversity' Rank": 473,
+    "'Cultural Diversity' Rank": 499,
+    "'Economic Diversity' Rank": 45,
+    "'Household Diversity' Rank": 92,
+    "'Religious Diversity' Rank": 139
+  },
+  {
+    "Overall Rank*": 121,
+    "City": "Paterson, NJ",
+    "Total Score": 66.64,
+    "'Socioeconomic Diversity' Rank": 474,
+    "'Cultural Diversity' Rank": 82,
+    "'Economic Diversity' Rank": 395,
+    "'Household Diversity' Rank": 19,
+    "'Religious Diversity' Rank": 169
+  },
+  {
+    "Overall Rank*": 441,
+    "City": "Springfield, MO",
+    "Total Score": 59.62,
+    "'Socioeconomic Diversity' Rank": 475,
+    "'Cultural Diversity' Rank": 429,
+    "'Economic Diversity' Rank": 347,
+    "'Household Diversity' Rank": 236,
+    "'Religious Diversity' Rank": 259
+  },
+  {
+    "Overall Rank*": 262,
+    "City": "Pueblo, CO",
+    "Total Score": 64.12,
+    "'Socioeconomic Diversity' Rank": 476,
+    "'Cultural Diversity' Rank": 205,
+    "'Economic Diversity' Rank": 240,
+    "'Household Diversity' Rank": 47,
+    "'Religious Diversity' Rank": 216
+  },
+  {
+    "Overall Rank*": 333,
+    "City": "Erie, PA",
+    "Total Score": 62.77,
+    "'Socioeconomic Diversity' Rank": 477,
+    "'Cultural Diversity' Rank": 314,
+    "'Economic Diversity' Rank": 419,
+    "'Household Diversity' Rank": 125,
+    "'Religious Diversity' Rank": 119
+  },
+  {
+    "Overall Rank*": 394,
+    "City": "Evansville, IN",
+    "Total Score": 61.09,
+    "'Socioeconomic Diversity' Rank": 478,
+    "'Cultural Diversity' Rank": 420,
+    "'Economic Diversity' Rank": 382,
+    "'Household Diversity' Rank": 144,
+    "'Religious Diversity' Rank": 88
+  },
+  {
+    "Overall Rank*": 340,
+    "City": "Hopkinsville, KY",
+    "Total Score": 62.66,
+    "'Socioeconomic Diversity' Rank": 479,
+    "'Cultural Diversity' Rank": 299,
+    "'Economic Diversity' Rank": 204,
+    "'Household Diversity' Rank": 74,
+    "'Religious Diversity' Rank": 226
+  },
+  {
+    "Overall Rank*": 135,
+    "City": "Harrisburg, PA",
+    "Total Score": 66.39,
+    "'Socioeconomic Diversity' Rank": 480,
+    "'Cultural Diversity' Rank": 108,
+    "'Economic Diversity' Rank": 110,
+    "'Household Diversity' Rank": 243,
+    "'Religious Diversity' Rank": 137
+  },
+  {
+    "Overall Rank*": 346,
+    "City": "Akron, OH",
+    "Total Score": 62.45,
+    "'Socioeconomic Diversity' Rank": 481,
+    "'Cultural Diversity' Rank": 306,
+    "'Economic Diversity' Rank": 317,
+    "'Household Diversity' Rank": 150,
+    "'Religious Diversity' Rank": 202
+  },
+  {
+    "Overall Rank*": 492,
+    "City": "Huntington, WV",
+    "Total Score": 56.58,
+    "'Socioeconomic Diversity' Rank": 482,
+    "'Cultural Diversity' Rank": 450,
+    "'Economic Diversity' Rank": 467,
+    "'Household Diversity' Rank": 295,
+    "'Religious Diversity' Rank": 428
+  },
+  {
+    "Overall Rank*": 473,
+    "City": "Anaconda, MT",
+    "Total Score": 57.89,
+    "'Socioeconomic Diversity' Rank": 483,
+    "'Cultural Diversity' Rank": 471,
+    "'Economic Diversity' Rank": 70,
+    "'Household Diversity' Rank": 452,
+    "'Religious Diversity' Rank": 294
+  },
+  {
+    "Overall Rank*": 358,
+    "City": "Toledo, OH",
+    "Total Score": 62.27,
+    "'Socioeconomic Diversity' Rank": 484,
+    "'Cultural Diversity' Rank": 301,
+    "'Economic Diversity' Rank": 268,
+    "'Household Diversity' Rank": 102,
+    "'Religious Diversity' Rank": 242
+  },
+  {
+    "Overall Rank*": 366,
+    "City": "Albany, GA",
+    "Total Score": 62.06,
+    "'Socioeconomic Diversity' Rank": 485,
+    "'Cultural Diversity' Rank": 399,
+    "'Economic Diversity' Rank": 59,
+    "'Household Diversity' Rank": 56,
+    "'Religious Diversity' Rank": 96
+  },
+  {
+    "Overall Rank*": 291,
+    "City": "Lorain, OH",
+    "Total Score": 63.76,
+    "'Socioeconomic Diversity' Rank": 486,
+    "'Cultural Diversity' Rank": 179,
+    "'Economic Diversity' Rank": 206,
+    "'Household Diversity' Rank": 26,
+    "'Religious Diversity' Rank": 295
+  },
+  {
+    "Overall Rank*": 357,
+    "City": "Meridian, MS",
+    "Total Score": 62.27,
+    "'Socioeconomic Diversity' Rank": 487,
+    "'Cultural Diversity' Rank": 361,
+    "'Economic Diversity' Rank": 178,
+    "'Household Diversity' Rank": 69,
+    "'Religious Diversity' Rank": 118
+  },
+  {
+    "Overall Rank*": 422,
+    "City": "Greenville, MS",
+    "Total Score": 60.51,
+    "'Socioeconomic Diversity' Rank": 488,
+    "'Cultural Diversity' Rank": 465,
+    "'Economic Diversity' Rank": 86,
+    "'Household Diversity' Rank": 24,
+    "'Religious Diversity' Rank": 66
+  },
+  {
+    "Overall Rank*": 489,
+    "City": "Hialeah, FL",
+    "Total Score": 56.88,
+    "'Socioeconomic Diversity' Rank": 489,
+    "'Cultural Diversity' Rank": 500,
+    "'Economic Diversity' Rank": 72,
+    "'Household Diversity' Rank": 3,
+    "'Religious Diversity' Rank": 370
+  },
+  {
+    "Overall Rank*": 488,
+    "City": "Parkersburg, WV",
+    "Total Score": 56.9,
+    "'Socioeconomic Diversity' Rank": 490,
+    "'Cultural Diversity' Rank": 501,
+    "'Economic Diversity' Rank": 225,
+    "'Household Diversity' Rank": 95,
+    "'Religious Diversity' Rank": 279
+  },
+  {
+    "Overall Rank*": 408,
+    "City": "Pine Bluff, AR",
+    "Total Score": 60.8,
+    "'Socioeconomic Diversity' Rank": 491,
+    "'Cultural Diversity' Rank": 431,
+    "'Economic Diversity' Rank": 112,
+    "'Household Diversity' Rank": 132,
+    "'Religious Diversity' Rank": 89
+  },
+  {
+    "Overall Rank*": 345,
+    "City": "Dayton, OH",
+    "Total Score": 62.51,
+    "'Socioeconomic Diversity' Rank": 492,
+    "'Cultural Diversity' Rank": 268,
+    "'Economic Diversity' Rank": 275,
+    "'Household Diversity' Rank": 259,
+    "'Religious Diversity' Rank": 128
+  },
+  {
+    "Overall Rank*": 284,
+    "City": "Central Falls, RI",
+    "Total Score": 63.86,
+    "'Socioeconomic Diversity' Rank": 493,
+    "'Cultural Diversity' Rank": 88,
+    "'Economic Diversity' Rank": 486,
+    "'Household Diversity' Rank": 2,
+    "'Religious Diversity' Rank": 316
+  },
+  {
+    "Overall Rank*": 297,
+    "City": "Cleveland, OH",
+    "Total Score": 63.55,
+    "'Socioeconomic Diversity' Rank": 494,
+    "'Cultural Diversity' Rank": 198,
+    "'Economic Diversity' Rank": 248,
+    "'Household Diversity' Rank": 297,
+    "'Religious Diversity' Rank": 110
+  },
+  {
+    "Overall Rank*": 219,
+    "City": "Reading, PA",
+    "Total Score": 64.76,
+    "'Socioeconomic Diversity' Rank": 495,
+    "'Cultural Diversity' Rank": 98,
+    "'Economic Diversity' Rank": 448,
+    "'Household Diversity' Rank": 13,
+    "'Religious Diversity' Rank": 196
+  },
+  {
+    "Overall Rank*": 415,
+    "City": "Canton, OH",
+    "Total Score": 60.64,
+    "'Socioeconomic Diversity' Rank": 496,
+    "'Cultural Diversity' Rank": 369,
+    "'Economic Diversity' Rank": 303,
+    "'Household Diversity' Rank": 62,
+    "'Religious Diversity' Rank": 178
+  },
+  {
+    "Overall Rank*": 241,
+    "City": "Camden, NJ",
+    "Total Score": 64.48,
+    "'Socioeconomic Diversity' Rank": 497,
+    "'Cultural Diversity' Rank": 92,
+    "'Economic Diversity' Rank": 423,
+    "'Household Diversity' Rank": 298,
+    "'Religious Diversity' Rank": 183
+  },
+  {
+    "Overall Rank*": 449,
+    "City": "Detroit, MI",
+    "Total Score": 59.35,
+    "'Socioeconomic Diversity' Rank": 498,
+    "'Cultural Diversity' Rank": 393,
+    "'Economic Diversity' Rank": 272,
+    "'Household Diversity' Rank": 256,
+    "'Religious Diversity' Rank": 247
+  },
+  {
+    "Overall Rank*": 405,
+    "City": "Gary, IN",
+    "Total Score": 60.84,
+    "'Socioeconomic Diversity' Rank": 499,
+    "'Cultural Diversity' Rank": 407,
+    "'Economic Diversity' Rank": 236,
+    "'Household Diversity' Rank": 32,
+    "'Religious Diversity' Rank": 35
+  },
+  {
+    "Overall Rank*": 462,
+    "City": "Flint, MI",
+    "Total Score": 58.78,
+    "'Socioeconomic Diversity' Rank": 500,
+    "'Cultural Diversity' Rank": 345,
+    "'Economic Diversity' Rank": 363,
+    "'Household Diversity' Rank": 120,
+    "'Religious Diversity' Rank": 325
+  },
+  {
+    "Overall Rank*": 356,
+    "City": "Youngstown, OH",
+    "Total Score": 62.29,
+    "'Socioeconomic Diversity' Rank": 501,
+    "'Cultural Diversity' Rank": 219,
+    "'Economic Diversity' Rank": 265,
+    "'Household Diversity' Rank": 128,
+    "'Religious Diversity' Rank": 107
+  }
+]
