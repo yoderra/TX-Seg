@@ -1,30 +1,47 @@
 <html>
+
 <head>
-  <title>TX-seg.alpha</title>
+  <meta charset = “UTF-8”>
+  <title>TX-seg</title>
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+  <link rel="stylesheet" href="TX-seg-style.css">
+  <!-- Scripts -->
   <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
   <script src="leaflet.ajax.min.js"></script>
-  <style>
-  #mapId{ width: 75%; height: 100%; }
-  </style>
+  <script src="TX-seg-js.js"></script>
 </head>
+
+
+
 <body>
 
-  <div id="mapId"></div>
+<!-- main content-->
 
-  <script>
+<div id="mapId"></div>
 
-  var map = L.map('mapId').setView([29.7604, -95.3698], 10);
+<!-- sidebar ?? -->
 
-  var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  });
-    
-  var geojsonLayer = new L.GeoJSON.AJAX("TX-Districts.geojson");       
-  geojsonLayer.addTo(map);
+<div class="w3-sidebar w3-bar-block" style="width:25%;right:1">
+    <h5 class="w3-bar-item">Menu</h5>
+  </div>
   
-  OpenStreetMap_BlackAndWhite.addTo(map);
-  </script>
+  <div style="margin-right:25%">
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+
+    <ul id="myUL">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+      <li><a href="#">Billy</a></li>
+      <li><a href="#">Bob</a></li>
+      <li><a href="#">Calvin</a></li>
+      <li><a href="#">Christina</a></li>
+      <li><a href="#">Cindy</a></li>
+    </ul>
+</div> 
+
 </body>
+
+
+
 </html>
